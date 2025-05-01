@@ -1,0 +1,11 @@
+C:\Users\G300\Documents\web\source\Figure_1\Figure_1\obj\Debug\Figure_1.csproj.AssemblyReference.cache
+C:\Users\G300\Documents\web\source\Figure_1\Figure_1\obj\Debug\Figure_1.FrmRectangle.resources
+C:\Users\G300\Documents\web\source\Figure_1\Figure_1\obj\Debug\Figure_1.Properties.Resources.resources
+C:\Users\G300\Documents\web\source\Figure_1\Figure_1\obj\Debug\Figure_1.csproj.GenerateResource.cache
+C:\Users\G300\Documents\web\source\Figure_1\Figure_1\obj\Debug\Figure_1.csproj.CoreCompileInputs.cache
+C:\Users\G300\Documents\web\source\Figure_1\Figure_1\bin\Debug\Figure_1.exe.config
+C:\Users\G300\Documents\web\source\Figure_1\Figure_1\bin\Debug\Figure_1.exe
+C:\Users\G300\Documents\web\source\Figure_1\Figure_1\bin\Debug\Figure_1.pdb
+C:\Users\G300\Documents\web\source\Figure_1\Figure_1\obj\Debug\Figure_1.exe
+C:\Users\G300\Documents\web\source\Figure_1\Figure_1\obj\Debug\Figure_1.pdb
+C:\Users\G300\Documents\web\source\Figure_1\Figure_1\obj\Debug\Figure_1.FrmSquare.resources
