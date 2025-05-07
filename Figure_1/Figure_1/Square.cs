@@ -30,7 +30,7 @@ namespace Figure_1
             }
             catch
             {
-                MessageBox.Show("Ingreso invalido...", "Mensaje de error");
+                MessageBox.Show("Invalid inputs", "Error Messaje");
             }
         }
 
