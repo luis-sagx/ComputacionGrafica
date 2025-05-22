@@ -16,7 +16,7 @@ namespace Figure_1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmSquare());
+            Application.Run(new FrmFlorMargarita());
         }
     }
 }
