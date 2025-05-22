@@ -47,6 +47,10 @@
             this.txtSideA = new System.Windows.Forms.TextBox();
             this.label8 = new System.Windows.Forms.Label();
             this.txtSideC = new System.Windows.Forms.TextBox();
+            this.btnRotateLeft = new System.Windows.Forms.Button();
+            this.btnRotateRigth = new System.Windows.Forms.Button();
+            this.btnMaximize = new System.Windows.Forms.Button();
+            this.btnMinimize = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.picCanvas)).BeginInit();
             this.SuspendLayout();
             // 
@@ -175,7 +179,7 @@
             this.picCanvas.Location = new System.Drawing.Point(491, 115);
             this.picCanvas.Margin = new System.Windows.Forms.Padding(4);
             this.picCanvas.Name = "picCanvas";
-            this.picCanvas.Size = new System.Drawing.Size(450, 440);
+            this.picCanvas.Size = new System.Drawing.Size(450, 385);
             this.picCanvas.TabIndex = 52;
             this.picCanvas.TabStop = false;
             // 
@@ -263,11 +267,71 @@
             this.txtSideC.Size = new System.Drawing.Size(132, 28);
             this.txtSideC.TabIndex = 63;
             // 
+            // btnRotateLeft
+            // 
+            this.btnRotateLeft.BackColor = System.Drawing.Color.RoyalBlue;
+            this.btnRotateLeft.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
+            this.btnRotateLeft.ForeColor = System.Drawing.Color.White;
+            this.btnRotateLeft.Location = new System.Drawing.Point(472, 520);
+            this.btnRotateLeft.Margin = new System.Windows.Forms.Padding(4);
+            this.btnRotateLeft.Name = "btnRotateLeft";
+            this.btnRotateLeft.Size = new System.Drawing.Size(115, 45);
+            this.btnRotateLeft.TabIndex = 65;
+            this.btnRotateLeft.Text = "<- Rotate";
+            this.btnRotateLeft.UseVisualStyleBackColor = false;
+            this.btnRotateLeft.Click += new System.EventHandler(this.btnRotateLeft_Click);
+            // 
+            // btnRotateRigth
+            // 
+            this.btnRotateRigth.BackColor = System.Drawing.Color.RoyalBlue;
+            this.btnRotateRigth.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
+            this.btnRotateRigth.ForeColor = System.Drawing.Color.White;
+            this.btnRotateRigth.Location = new System.Drawing.Point(595, 520);
+            this.btnRotateRigth.Margin = new System.Windows.Forms.Padding(4);
+            this.btnRotateRigth.Name = "btnRotateRigth";
+            this.btnRotateRigth.Size = new System.Drawing.Size(115, 45);
+            this.btnRotateRigth.TabIndex = 66;
+            this.btnRotateRigth.Text = "Rotate ->";
+            this.btnRotateRigth.UseVisualStyleBackColor = false;
+            this.btnRotateRigth.Click += new System.EventHandler(this.btnRotateRigth_Click);
+            // 
+            // btnMaximize
+            // 
+            this.btnMaximize.BackColor = System.Drawing.Color.RoyalBlue;
+            this.btnMaximize.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
+            this.btnMaximize.ForeColor = System.Drawing.Color.White;
+            this.btnMaximize.Location = new System.Drawing.Point(718, 520);
+            this.btnMaximize.Margin = new System.Windows.Forms.Padding(4);
+            this.btnMaximize.Name = "btnMaximize";
+            this.btnMaximize.Size = new System.Drawing.Size(115, 45);
+            this.btnMaximize.TabIndex = 67;
+            this.btnMaximize.Text = "Maximize";
+            this.btnMaximize.UseVisualStyleBackColor = false;
+            this.btnMaximize.Click += new System.EventHandler(this.btnMaximize_Click);
+            // 
+            // btnMinimize
+            // 
+            this.btnMinimize.BackColor = System.Drawing.Color.RoyalBlue;
+            this.btnMinimize.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
+            this.btnMinimize.ForeColor = System.Drawing.Color.White;
+            this.btnMinimize.Location = new System.Drawing.Point(841, 520);
+            this.btnMinimize.Margin = new System.Windows.Forms.Padding(4);
+            this.btnMinimize.Name = "btnMinimize";
+            this.btnMinimize.Size = new System.Drawing.Size(115, 45);
+            this.btnMinimize.TabIndex = 68;
+            this.btnMinimize.Text = "Minimize";
+            this.btnMinimize.UseVisualStyleBackColor = false;
+            this.btnMinimize.Click += new System.EventHandler(this.btnMinimize_Click);
+            // 
             // FrmTriangle
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(982, 593);
+            this.Controls.Add(this.btnMinimize);
+            this.Controls.Add(this.btnMaximize);
+            this.Controls.Add(this.btnRotateRigth);
+            this.Controls.Add(this.btnRotateLeft);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.txtSideC);
             this.Controls.Add(this.label7);
@@ -317,5 +381,9 @@
         private System.Windows.Forms.TextBox txtSideA;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.TextBox txtSideC;
+        private System.Windows.Forms.Button btnRotateLeft;
+        private System.Windows.Forms.Button btnRotateRigth;
+        private System.Windows.Forms.Button btnMaximize;
+        private System.Windows.Forms.Button btnMinimize;
     }
 }

@@ -12,7 +12,7 @@ namespace GeometricFigures
     {
         protected float mArea;
         protected float mPerimeter;
-        protected const float SF = 20.0f; 
+        protected float SF = 20f; 
         protected Graphics mGraph;
         protected Pen mPen;
         protected bool isValid = true;
