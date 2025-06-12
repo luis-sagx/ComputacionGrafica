@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejercicios2p\\ejercicios2p\\dda\\algoritmodda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\dda\\algoritmodda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejercicios2p\\ejercicios2p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejercicios2p\\ejercicios2p\\dda\\frmdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\dda\\frmdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejercicios2p\\ejercicios2p\\drawcircle\\algoritmocirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\drawcircle\\algoritmocirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejercicios2p\\ejercicios2p\\drawcircle\\frmcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\drawcircle\\frmcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejercicios2p\\ejercicios2p\\drawcircle\\frmcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\drawcircle\\frmcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejercicios2p\\ejercicios2p\\bresenham\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\bresenham\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejercicios2p\\ejercicios2p\\dda\\frmdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\dda\\frmdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejercicios2p\\ejercicios2p\\bresenham\\algoritmobresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\bresenham\\algoritmobresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejercicios2p\\ejercicios2p\\bresenham\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\bresenham\\frmbresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmCirculo.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\DrawCircle\\FrmCirculo.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\DrawCircle\\FrmCirculo.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\DrawCircle\\FrmCirculo.cs",
+              "RelativeToolTip": "Ejercicios2P\\DrawCircle\\FrmCirculo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:38:24.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlgoritmoDDA.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\DDA\\AlgoritmoDDA.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\DDA\\AlgoritmoDDA.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\DDA\\AlgoritmoDDA.cs",
+              "RelativeToolTip": "Ejercicios2P\\DDA\\AlgoritmoDDA.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:39:38.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Program.cs",
+              "RelativeToolTip": "Ejercicios2P\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:39:00.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmCirculo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\DrawCircle\\FrmCirculo.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\DrawCircle\\FrmCirculo.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\DrawCircle\\FrmCirculo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicios2P\\DrawCircle\\FrmCirculo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:30:00.612Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlgoritmoCirculo.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\DrawCircle\\AlgoritmoCirculo.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\DrawCircle\\AlgoritmoCirculo.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\DrawCircle\\AlgoritmoCirculo.cs",
+              "RelativeToolTip": "Ejercicios2P\\DrawCircle\\AlgoritmoCirculo.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwF8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:29:47.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmBresenham.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Bresenham\\FrmBresenham.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\Bresenham\\FrmBresenham.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Bresenham\\FrmBresenham.cs",
+              "RelativeToolTip": "Ejercicios2P\\Bresenham\\FrmBresenham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:27:07.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmDDA.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\DDA\\FrmDDA.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\DDA\\FrmDDA.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\DDA\\FrmDDA.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicios2P\\DDA\\FrmDDA.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T01:39:54.334Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlgoritmoBresenham.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Bresenham\\AlgoritmoBresenham.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\Bresenham\\AlgoritmoBresenham.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Bresenham\\AlgoritmoBresenham.cs",
+              "RelativeToolTip": "Ejercicios2P\\Bresenham\\AlgoritmoBresenham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:24:47.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmBresenham.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Bresenham\\FrmBresenham.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\Bresenham\\FrmBresenham.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Bresenham\\FrmBresenham.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicios2P\\Bresenham\\FrmBresenham.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:24:39.341Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmDDA.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\DDA\\FrmDDA.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\DDA\\FrmDDA.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\DDA\\FrmDDA.cs",
+              "RelativeToolTip": "Ejercicios2P\\DDA\\FrmDDA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T02:02:29.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
