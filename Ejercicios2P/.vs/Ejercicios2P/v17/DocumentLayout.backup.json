@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejercicios2p\\ejercicios2p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejercicios2p\\ejercicios2p\\dda\\algoritmodda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\dda\\algoritmodda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejercicios2p\\ejercicios2p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejercicios2p\\ejercicios2p\\dda\\frmdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -79,20 +79,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AlgoritmoDDA.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\DDA\\AlgoritmoDDA.cs",
               "RelativeDocumentMoniker": "Ejercicios2P\\DDA\\AlgoritmoDDA.cs",
               "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\DDA\\AlgoritmoDDA.cs",
               "RelativeToolTip": "Ejercicios2P\\DDA\\AlgoritmoDDA.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAwGQAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T01:39:38.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicios2P\\Program.cs",

@@ -41,6 +41,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.txtRadius = new System.Windows.Forms.TextBox();
             this.txtPuntox = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.picCanvas)).BeginInit();
             this.SuspendLayout();
             // 
@@ -48,7 +49,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-            this.label2.Location = new System.Drawing.Point(96, 216);
+            this.label2.Location = new System.Drawing.Point(108, 261);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(23, 24);
@@ -58,7 +59,7 @@
             // txtPuntoy
             // 
             this.txtPuntoy.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-            this.txtPuntoy.Location = new System.Drawing.Point(169, 215);
+            this.txtPuntoy.Location = new System.Drawing.Point(181, 260);
             this.txtPuntoy.Margin = new System.Windows.Forms.Padding(4);
             this.txtPuntoy.Name = "txtPuntoy";
             this.txtPuntoy.Size = new System.Drawing.Size(132, 28);
@@ -67,7 +68,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(73, 117);
+            this.label5.Location = new System.Drawing.Point(79, 117);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(311, 16);
@@ -78,7 +79,7 @@
             // 
             this.lblInputs.AutoSize = true;
             this.lblInputs.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.lblInputs.Location = new System.Drawing.Point(4, 111);
+            this.lblInputs.Location = new System.Drawing.Point(10, 111);
             this.lblInputs.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblInputs.Name = "lblInputs";
             this.lblInputs.Size = new System.Drawing.Size(55, 25);
@@ -104,7 +105,7 @@
             this.btnExit.BackColor = System.Drawing.Color.Red;
             this.btnExit.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
             this.btnExit.ForeColor = System.Drawing.Color.White;
-            this.btnExit.Location = new System.Drawing.Point(300, 416);
+            this.btnExit.Location = new System.Drawing.Point(308, 428);
             this.btnExit.Margin = new System.Windows.Forms.Padding(0);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(80, 43);
@@ -117,7 +118,7 @@
             // 
             this.btnReset.BackColor = System.Drawing.Color.LemonChiffon;
             this.btnReset.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-            this.btnReset.Location = new System.Drawing.Point(174, 416);
+            this.btnReset.Location = new System.Drawing.Point(182, 428);
             this.btnReset.Margin = new System.Windows.Forms.Padding(4);
             this.btnReset.Name = "btnReset";
             this.btnReset.Size = new System.Drawing.Size(93, 43);
@@ -131,7 +132,7 @@
             this.btnCalculate.BackColor = System.Drawing.Color.LightSteelBlue;
             this.btnCalculate.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
             this.btnCalculate.ForeColor = System.Drawing.Color.Black;
-            this.btnCalculate.Location = new System.Drawing.Point(24, 416);
+            this.btnCalculate.Location = new System.Drawing.Point(32, 428);
             this.btnCalculate.Margin = new System.Windows.Forms.Padding(4);
             this.btnCalculate.Name = "btnCalculate";
             this.btnCalculate.Size = new System.Drawing.Size(113, 43);
@@ -154,7 +155,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-            this.label3.Location = new System.Drawing.Point(85, 287);
+            this.label3.Location = new System.Drawing.Point(96, 352);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(61, 24);
@@ -165,7 +166,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-            this.label1.Location = new System.Drawing.Point(96, 155);
+            this.label1.Location = new System.Drawing.Point(108, 208);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(24, 24);
@@ -175,7 +176,7 @@
             // txtRadius
             // 
             this.txtRadius.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-            this.txtRadius.Location = new System.Drawing.Point(169, 283);
+            this.txtRadius.Location = new System.Drawing.Point(180, 348);
             this.txtRadius.Margin = new System.Windows.Forms.Padding(4);
             this.txtRadius.Name = "txtRadius";
             this.txtRadius.Size = new System.Drawing.Size(132, 28);
@@ -184,17 +185,30 @@
             // txtPuntox
             // 
             this.txtPuntox.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-            this.txtPuntox.Location = new System.Drawing.Point(171, 155);
+            this.txtPuntox.Location = new System.Drawing.Point(183, 208);
             this.txtPuntox.Margin = new System.Windows.Forms.Padding(4);
             this.txtPuntox.Name = "txtPuntox";
             this.txtPuntox.Size = new System.Drawing.Size(132, 28);
             this.txtPuntox.TabIndex = 45;
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
+            this.label4.ForeColor = System.Drawing.Color.Black;
+            this.label4.Location = new System.Drawing.Point(78, 160);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(59, 24);
+            this.label4.TabIndex = 60;
+            this.label4.Text = "Punto";
+            // 
             // FrmCirculo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(943, 532);
+            this.ClientSize = new System.Drawing.Size(943, 534);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtPuntoy);
             this.Controls.Add(this.label5);
@@ -232,5 +246,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txtRadius;
         private System.Windows.Forms.TextBox txtPuntox;
+        private System.Windows.Forms.Label label4;
     }
 }
