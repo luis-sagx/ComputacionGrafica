@@ -49,6 +49,7 @@
     <Compile Include="Circle.cs" />
     <Compile Include="Deltoid.cs" />
     <Compile Include="Elipse.cs" />
+    <Compile Include="FigPitagorica.cs" />
     <Compile Include="FrmCircle.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +67,18 @@
     </Compile>
     <Compile Include="FrmElipse.Designer.cs">
       <DependentUpon>FrmElipse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFigHexa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFigHexa.Designer.cs">
+      <DependentUpon>FrmFigHexa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFiguraPitag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFiguraPitag.Designer.cs">
+      <DependentUpon>FrmFiguraPitag.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmMain.cs">
       <SubType>Form</SubType>
@@ -127,6 +140,7 @@
     <Compile Include="FrmTriangle.Designer.cs">
       <DependentUpon>FrmTriangle.cs</DependentUpon>
     </Compile>
+    <Compile Include="GeometricFigure.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Rectangle.cs" />
@@ -147,6 +161,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmElipse.resx">
       <DependentUpon>FrmElipse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFigHexa.resx">
+      <DependentUpon>FrmFigHexa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFiguraPitag.resx">
+      <DependentUpon>FrmFiguraPitag.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmMain.resx">
       <DependentUpon>FrmMain.cs</DependentUpon>

@@ -6,6 +6,7 @@ using System.Windows.Forms;
 using Ejercicios2P.Bresenham;
 using Ejercicios2P.DDA;
 using Ejercicios2P.DrawCircle;
+using Ejercicios2P.Views;
 
 namespace Ejercicios2P
 {
@@ -19,7 +20,7 @@ namespace Ejercicios2P
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmDDA());
+            Application.Run(new FrmMain());
         }
     }
 }

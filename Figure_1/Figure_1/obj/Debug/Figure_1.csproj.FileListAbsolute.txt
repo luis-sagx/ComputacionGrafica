@@ -22,3 +22,5 @@ C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Figure_1\Figure_
 C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Figure_1\Figure_1\obj\Debug\Figure_1.exe
 C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Figure_1\Figure_1\obj\Debug\Figure_1.pdb
 C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Figure_1\Figure_1\obj\Debug\Figure_1.FrmFlorMargarita.resources
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Figure_1\Figure_1\obj\Debug\Figure_1.FrmPythagorean.resources
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Figure_1\Figure_1\obj\Debug\Figure_1.FrmTrinity.resources

@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\figure_1\\figure_1\\flormargarita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|solutionrelative:figure_1\\flormargarita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|solutionrelative:figure_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\frmflormargarita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|solutionrelative:figure_1\\frmflormargarita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\frmflormargarita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|solutionrelative:figure_1\\frmflormargarita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\figure_1\\figure_1\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|solutionrelative:figure_1\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\frmlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|solutionrelative:figure_1\\frmlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,6 +17,54 @@
     {
       "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|solutionrelative:figure_1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\frmflormargarita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|solutionrelative:figure_1\\frmflormargarita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|solutionrelative:figure_1\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\trinity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|solutionrelative:figure_1\\trinity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\frmtrinity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|solutionrelative:figure_1\\frmtrinity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|solutionrelative:figure_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\frmtrinity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|solutionrelative:figure_1\\frmtrinity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\frmpythagorean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|solutionrelative:figure_1\\frmpythagorean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\pythagoreanman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|solutionrelative:figure_1\\pythagoreanman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\frmpythagorean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|solutionrelative:figure_1\\frmpythagorean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\frmpythagorean.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|solutionrelative:figure_1\\frmpythagorean.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\flormargarita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|solutionrelative:figure_1\\flormargarita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\frmlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|solutionrelative:figure_1\\frmlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\Hexagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\frmlines.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|solutionrelative:figure_1\\frmlines.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|solutionrelative:figure_1\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78B0C73D-6FCB-42E1-B603-076767AF593E}|Figure_1\\Figure_1.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\figure_1\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,90 +118,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FlorMargarita.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FlorMargarita.cs",
-              "RelativeDocumentMoniker": "Figure_1\\FlorMargarita.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FlorMargarita.cs",
-              "RelativeToolTip": "Figure_1\\FlorMargarita.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwEEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T15:01:49.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmFlorMargarita.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmFlorMargarita.cs",
-              "RelativeDocumentMoniker": "Figure_1\\FrmFlorMargarita.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmFlorMargarita.cs",
-              "RelativeToolTip": "Figure_1\\FrmFlorMargarita.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T15:15:09.755Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmFlorMargarita.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmFlorMargarita.cs",
-              "RelativeDocumentMoniker": "Figure_1\\FrmFlorMargarita.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmFlorMargarita.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Figure_1\\FrmFlorMargarita.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T15:13:34.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmLines.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmLines.cs",
-              "RelativeDocumentMoniker": "Figure_1\\FrmLines.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmLines.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Figure_1\\FrmLines.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T14:23:48.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Square.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\Square.cs",
-              "RelativeDocumentMoniker": "Figure_1\\Square.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\Square.cs",
-              "RelativeToolTip": "Figure_1\\Square.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T00:51:32.952Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\Program.cs",
-              "RelativeDocumentMoniker": "Figure_1\\Program.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\Program.cs",
-              "RelativeToolTip": "Figure_1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T14:28:48.335Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "FrmSquare.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmSquare.cs",
               "RelativeDocumentMoniker": "Figure_1\\FrmSquare.cs",
               "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmSquare.cs",
               "RelativeToolTip": "Figure_1\\FrmSquare.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T01:19:43.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\Square.cs",
+              "RelativeDocumentMoniker": "Figure_1\\Square.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\Square.cs",
+              "RelativeToolTip": "Figure_1\\Square.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T00:51:32.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FrmSquare.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmSquare.cs",
               "RelativeDocumentMoniker": "Figure_1\\FrmSquare.cs",
@@ -188,19 +154,171 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\Rectangle.cs",
               "RelativeDocumentMoniker": "Figure_1\\Rectangle.cs",
               "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\Rectangle.cs",
               "RelativeToolTip": "Figure_1\\Rectangle.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAA5wC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAE0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T23:04:31.547Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Trinity.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\Trinity.cs",
+              "RelativeDocumentMoniker": "Figure_1\\Trinity.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\Trinity.cs",
+              "RelativeToolTip": "Figure_1\\Trinity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:15:53.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\Program.cs",
+              "RelativeDocumentMoniker": "Figure_1\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\Program.cs",
+              "RelativeToolTip": "Figure_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:28:48.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmRectangle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmRectangle.cs",
+              "RelativeDocumentMoniker": "Figure_1\\FrmRectangle.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmRectangle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figure_1\\FrmRectangle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T23:04:29.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmFlorMargarita.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmFlorMargarita.cs",
+              "RelativeDocumentMoniker": "Figure_1\\FrmFlorMargarita.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmFlorMargarita.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figure_1\\FrmFlorMargarita.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:13:34.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmPythagorean.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmPythagorean.cs",
+              "RelativeDocumentMoniker": "Figure_1\\FrmPythagorean.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmPythagorean.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figure_1\\FrmPythagorean.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:49:18.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmPythagorean.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmPythagorean.cs",
+              "RelativeDocumentMoniker": "Figure_1\\FrmPythagorean.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmPythagorean.cs",
+              "RelativeToolTip": "Figure_1\\FrmPythagorean.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:49:55.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PythagoreanMan.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\PythagoreanMan.cs",
+              "RelativeDocumentMoniker": "Figure_1\\PythagoreanMan.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\PythagoreanMan.cs",
+              "RelativeToolTip": "Figure_1\\PythagoreanMan.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAkwJYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:44:16.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmTrinity.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmTrinity.cs",
+              "RelativeDocumentMoniker": "Figure_1\\FrmTrinity.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmTrinity.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figure_1\\FrmTrinity.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:17:05.889Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "FrmTrinity.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmTrinity.cs",
+              "RelativeDocumentMoniker": "Figure_1\\FrmTrinity.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmTrinity.cs",
+              "RelativeToolTip": "Figure_1\\FrmTrinity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T03:18:02.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmPythagorean.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmPythagorean.Designer.cs",
+              "RelativeDocumentMoniker": "Figure_1\\FrmPythagorean.Designer.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmPythagorean.Designer.cs",
+              "RelativeToolTip": "Figure_1\\FrmPythagorean.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:53:35.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmLines.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmLines.cs",
+              "RelativeDocumentMoniker": "Figure_1\\FrmLines.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmLines.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figure_1\\FrmLines.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:23:48.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FlorMargarita.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FlorMargarita.cs",
+              "RelativeDocumentMoniker": "Figure_1\\FlorMargarita.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FlorMargarita.cs",
+              "RelativeToolTip": "Figure_1\\FlorMargarita.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwEEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:01:49.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmHezagono.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmHezagono.cs",
+              "RelativeDocumentMoniker": "Figure_1\\FrmHezagono.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmHezagono.cs",
+              "RelativeToolTip": "Figure_1\\FrmHezagono.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T14:37:11.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Hexagono.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\Hexagono.cs",
               "RelativeDocumentMoniker": "Figure_1\\Hexagono.cs",
@@ -212,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "Line.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\Line.cs",
               "RelativeDocumentMoniker": "Figure_1\\Line.cs",
@@ -224,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "FrmHezagono.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmHezagono.cs",
               "RelativeDocumentMoniker": "Figure_1\\FrmHezagono.cs",
@@ -235,19 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FrmHezagono.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmHezagono.cs",
-              "RelativeDocumentMoniker": "Figure_1\\FrmHezagono.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmHezagono.cs",
-              "RelativeToolTip": "Figure_1\\FrmHezagono.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAWwCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T14:37:11.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "FrmLines.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmLines.cs",
               "RelativeDocumentMoniker": "Figure_1\\FrmLines.cs",
@@ -259,18 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FrmRectangle.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmRectangle.cs",
-              "RelativeDocumentMoniker": "Figure_1\\FrmRectangle.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmRectangle.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Figure_1\\FrmRectangle.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T23:04:29.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "FrmLines.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmLines.Designer.cs",
               "RelativeDocumentMoniker": "Figure_1\\FrmLines.Designer.cs",
@@ -282,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "FrmRectangle.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Figure_1\\Figure_1\\FrmRectangle.cs",
               "RelativeDocumentMoniker": "Figure_1\\FrmRectangle.cs",

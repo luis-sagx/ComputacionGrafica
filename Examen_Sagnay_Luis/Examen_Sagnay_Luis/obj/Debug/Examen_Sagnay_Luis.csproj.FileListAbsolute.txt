@@ -1,0 +1,10 @@
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Examen_Sagnay_Luis\Examen_Sagnay_Luis\obj\Debug\Examen_Sagnay_Luis.csproj.AssemblyReference.cache
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Examen_Sagnay_Luis\Examen_Sagnay_Luis\obj\Debug\Examen_Sagnay_Luis.FrmEstrellas.resources
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Examen_Sagnay_Luis\Examen_Sagnay_Luis\obj\Debug\Examen_Sagnay_Luis.Properties.Resources.resources
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Examen_Sagnay_Luis\Examen_Sagnay_Luis\obj\Debug\Examen_Sagnay_Luis.csproj.GenerateResource.cache
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Examen_Sagnay_Luis\Examen_Sagnay_Luis\obj\Debug\Examen_Sagnay_Luis.csproj.CoreCompileInputs.cache
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Examen_Sagnay_Luis\Examen_Sagnay_Luis\bin\Debug\Examen_Sagnay_Luis.exe.config
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Examen_Sagnay_Luis\Examen_Sagnay_Luis\bin\Debug\Examen_Sagnay_Luis.exe
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Examen_Sagnay_Luis\Examen_Sagnay_Luis\bin\Debug\Examen_Sagnay_Luis.pdb
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Examen_Sagnay_Luis\Examen_Sagnay_Luis\obj\Debug\Examen_Sagnay_Luis.exe
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Examen_Sagnay_Luis\Examen_Sagnay_Luis\obj\Debug\Examen_Sagnay_Luis.pdb

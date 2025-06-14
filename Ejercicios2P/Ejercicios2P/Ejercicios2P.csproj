@@ -46,36 +46,55 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bresenham\AlgoritmoBresenham.cs" />
-    <Compile Include="Bresenham\FrmBresenham.cs">
+    <Compile Include="Algorithms\FloodFillAlgorithm.cs" />
+    <Compile Include="Algorithms\LineAlgorithm.cs" />
+    <Compile Include="Domain\Abstracts\AlgorithmCalculator.cs" />
+    <Compile Include="Algorithms\BresenhamAlgorithm.cs" />
+    <Compile Include="Domain\Models\Point2D.cs" />
+    <Compile Include="Utils\ColorHelper.cs" />
+    <Compile Include="Utils\PolygonGenerator.cs" />
+    <Compile Include="Utils\Table.cs" />
+    <Compile Include="Views\FrmBresenham.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Bresenham\FrmBresenham.Designer.cs">
+    <Compile Include="Views\FrmBresenham.Designer.cs">
       <DependentUpon>FrmBresenham.cs</DependentUpon>
     </Compile>
-    <Compile Include="DDA\AlgoritmoDDA.cs" />
-    <Compile Include="DDA\FrmDDA.cs">
+    <Compile Include="Algorithms\DDAAlgorithm.cs" />
+    <Compile Include="Views\FrmDDA.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="DDA\FrmDDA.Designer.cs">
+    <Compile Include="Views\FrmDDA.Designer.cs">
       <DependentUpon>FrmDDA.cs</DependentUpon>
     </Compile>
-    <Compile Include="DrawCircle\AlgoritmoCirculo.cs" />
-    <Compile Include="DrawCircle\FrmCirculo.cs">
+    <Compile Include="Algorithms\CircleBresenham.cs" />
+    <Compile Include="Views\FrmCirculo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="DrawCircle\FrmCirculo.Designer.cs">
+    <Compile Include="Views\FrmCirculo.Designer.cs">
       <DependentUpon>FrmCirculo.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Bresenham\FrmBresenham.resx">
+    <Compile Include="Views\FrmFloodFill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\FrmFloodFill.Designer.cs">
+      <DependentUpon>FrmFloodFill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Views\FrmBresenham.resx">
       <DependentUpon>FrmBresenham.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="DDA\FrmDDA.resx">
+    <EmbeddedResource Include="Views\FrmDDA.resx">
       <DependentUpon>FrmDDA.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="DrawCircle\FrmCirculo.resx">
+    <EmbeddedResource Include="Views\FrmCirculo.resx">
       <DependentUpon>FrmCirculo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -86,7 +105,14 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Views\FrmFloodFill.resx">
+      <DependentUpon>FrmFloodFill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -99,6 +125,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

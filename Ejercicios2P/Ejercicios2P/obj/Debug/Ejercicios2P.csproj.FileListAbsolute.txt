@@ -10,3 +10,5 @@ C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Ejercicios2P\Eje
 C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Ejercicios2P\Ejercicios2P\obj\Debug\Ejercicios2P.pdb
 C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Ejercicios2P\Ejercicios2P\obj\Debug\Ejercicios2P.Bresenham.FrmBresenham.resources
 C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Ejercicios2P\Ejercicios2P\obj\Debug\Ejercicios2P.DrawCircle.FrmCirculo.resources
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Ejercicios2P\Ejercicios2P\obj\Debug\Ejercicios2P.Views.FrmFloodFill.resources
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Ejercicios2P\Ejercicios2P\obj\Debug\Ejercicios2P.Views.FrmMain.resources

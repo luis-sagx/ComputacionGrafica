@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\geometricfigures\\geometricfigures\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\geometricfigures\\geometricfigures\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\geometricfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\geometricfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\frmfighexa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmfighexa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\figpitagorica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\figpitagorica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\trapezoid .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +53,46 @@
     {
       "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\trapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\trapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\frmfighexa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmfighexa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\frmfigurapitag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmfigurapitag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\frmfigurapitag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmfigurapitag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\semicircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,10 +111,6 @@
       "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\elipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\elipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,16 +119,8 @@
       "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\deltoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\frmsemicircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmsemicircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\semicircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -91,20 +143,12 @@
       "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\frmrhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmrhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\frmrhomboid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmrhomboid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\geometricfigures\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA4766D7-7A4E-4858-8CF2-1DD49B39CF0D}|GeometricFigures\\GeometricFigures.csproj|solutionrelative:geometricfigures\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,77 +174,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmTriangle.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmTriangle.cs",
-              "RelativeDocumentMoniker": "GeometricFigures\\FrmTriangle.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmTriangle.cs [Dise\u00F1o]",
-              "RelativeToolTip": "GeometricFigures\\FrmTriangle.cs [Dise\u00F1o]",
+              "DocumentIndex": 1,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmMain.cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmMain.cs",
+              "RelativeToolTip": "GeometricFigures\\FrmMain.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T14:45:04.132Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-06-14T04:17:32.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "FrmMain.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmMain.cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmMain.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GeometricFigures\\FrmMain.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T04:17:29.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Triangle.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Triangle.cs",
               "RelativeDocumentMoniker": "GeometricFigures\\Triangle.cs",
               "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Triangle.cs",
               "RelativeToolTip": "GeometricFigures\\Triangle.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAmwHQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwKcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T23:22:34.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Rhomboid.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Rhomboid.cs",
-              "RelativeDocumentMoniker": "GeometricFigures\\Rhomboid.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Rhomboid.cs",
-              "RelativeToolTip": "GeometricFigures\\Rhomboid.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T23:20:58.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Program.cs",
-              "RelativeDocumentMoniker": "GeometricFigures\\Program.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Program.cs",
-              "RelativeToolTip": "GeometricFigures\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T23:20:43.877Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Elipse.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Elipse.cs",
-              "RelativeDocumentMoniker": "GeometricFigures\\Elipse.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Elipse.cs",
-              "RelativeToolTip": "GeometricFigures\\Elipse.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAkwEwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T23:20:21.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmTriangle.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmTriangle.cs",
-              "RelativeDocumentMoniker": "GeometricFigures\\FrmTriangle.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmTriangle.cs",
-              "RelativeToolTip": "GeometricFigures\\FrmTriangle.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T23:12:01.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T23:22:34.359Z"
             },
             {
               "$type": "Document",
@@ -210,51 +215,85 @@
               "RelativeDocumentMoniker": "GeometricFigures\\Shape.cs",
               "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Shape.cs",
               "RelativeToolTip": "GeometricFigures\\Shape.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA1wA4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T02:53:09.574Z",
+              "WhenOpened": "2025-05-04T02:53:09.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmTriangle.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmTriangle.cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\FrmTriangle.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmTriangle.cs",
+              "RelativeToolTip": "GeometricFigures\\FrmTriangle.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:21:51.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GeometricFigure.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\GeometricFigure.cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\GeometricFigure.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\GeometricFigure.cs",
+              "RelativeToolTip": "GeometricFigures\\GeometricFigure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:50:29.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmSquare.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmSquare.cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\FrmSquare.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmSquare.cs",
+              "RelativeToolTip": "GeometricFigures\\FrmSquare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T22:17:54.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Square.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Square.cs",
               "RelativeDocumentMoniker": "GeometricFigures\\Square.cs",
               "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Square.cs",
               "RelativeToolTip": "GeometricFigures\\Square.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T23:21:31.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T23:21:31.428Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Rhombus.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Rhombus.cs",
-              "RelativeDocumentMoniker": "GeometricFigures\\Rhombus.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Rhombus.cs",
-              "RelativeToolTip": "GeometricFigures\\Rhombus.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAowEwAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "FrmFigHexa.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmFigHexa.cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\FrmFigHexa.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmFigHexa.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GeometricFigures\\FrmFigHexa.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T23:21:16.072Z"
+              "WhenOpened": "2025-05-27T12:44:28.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Trapezoid .cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Trapezoid .cs",
-              "RelativeDocumentMoniker": "GeometricFigures\\Trapezoid .cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Trapezoid .cs",
-              "RelativeToolTip": "GeometricFigures\\Trapezoid .cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAADwv1IAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "FigPitagorica.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FigPitagorica.cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\FigPitagorica.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FigPitagorica.cs",
+              "RelativeToolTip": "GeometricFigures\\FigPitagorica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T23:21:50.594Z"
+              "WhenOpened": "2025-05-26T22:10:44.113Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Trapezoide.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Trapezoide.cs",
               "RelativeDocumentMoniker": "GeometricFigures\\Trapezoide.cs",
@@ -266,19 +305,182 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Trapezoid .cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Trapezoid .cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\Trapezoid .cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Trapezoid .cs",
+              "RelativeToolTip": "GeometricFigures\\Trapezoid .cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAqwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:21:50.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmTriangle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmTriangle.cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\FrmTriangle.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmTriangle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GeometricFigures\\FrmTriangle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:45:04.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmFigHexa.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmFigHexa.cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\FrmFigHexa.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmFigHexa.cs",
+              "RelativeToolTip": "GeometricFigures\\FrmFigHexa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:45:07.383Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "FrmFiguraPitag.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmFiguraPitag.cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\FrmFiguraPitag.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmFiguraPitag.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GeometricFigures\\FrmFiguraPitag.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:58:39.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Program.cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Program.cs",
+              "RelativeToolTip": "GeometricFigures\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:20:43.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Circle.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Circle.cs",
               "RelativeDocumentMoniker": "GeometricFigures\\Circle.cs",
               "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Circle.cs",
               "RelativeToolTip": "GeometricFigures\\Circle.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowD8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowD8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T23:20:00.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
+              "Title": "FrmFiguraPitag.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmFiguraPitag.cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\FrmFiguraPitag.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmFiguraPitag.cs",
+              "RelativeToolTip": "GeometricFigures\\FrmFiguraPitag.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:58:47.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmCircle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmCircle.cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\FrmCircle.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmCircle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GeometricFigures\\FrmCircle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:59:28.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmSquare.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmSquare.cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\FrmSquare.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmSquare.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GeometricFigures\\FrmSquare.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:11:21.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmCircle.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmCircle.cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\FrmCircle.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmCircle.cs",
+              "RelativeToolTip": "GeometricFigures\\FrmCircle.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:49:10.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmRectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmRectangle.cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\FrmRectangle.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmRectangle.cs",
+              "RelativeToolTip": "GeometricFigures\\FrmRectangle.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:10:50.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmRectangle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmRectangle.cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\FrmRectangle.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmRectangle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GeometricFigures\\FrmRectangle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T22:14:18.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Rhomboid.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Rhomboid.cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\Rhomboid.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Rhomboid.cs",
+              "RelativeToolTip": "GeometricFigures\\Rhomboid.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:20:58.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Elipse.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Elipse.cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\Elipse.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Elipse.cs",
+              "RelativeToolTip": "GeometricFigures\\Elipse.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwEwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:20:21.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Rhombus.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Rhombus.cs",
+              "RelativeDocumentMoniker": "GeometricFigures\\Rhombus.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Rhombus.cs",
+              "RelativeToolTip": "GeometricFigures\\Rhombus.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowEwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:21:16.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "Deltoid.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Deltoid.cs",
               "RelativeDocumentMoniker": "GeometricFigures\\Deltoid.cs",
@@ -290,7 +492,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 30,
               "Title": "SemiCircle.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\SemiCircle.cs",
               "RelativeDocumentMoniker": "GeometricFigures\\SemiCircle.cs",
@@ -301,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 32,
               "Title": "FrmTrapezoide.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmTrapezoide.cs",
               "RelativeDocumentMoniker": "GeometricFigures\\FrmTrapezoide.cs",
@@ -313,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 33,
               "Title": "FrmTrapezoid.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmTrapezoid.cs",
               "RelativeDocumentMoniker": "GeometricFigures\\FrmTrapezoid.cs",
@@ -325,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 34,
               "Title": "FrmStar.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmStar.cs",
               "RelativeDocumentMoniker": "GeometricFigures\\FrmStar.cs",
@@ -337,19 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "FrmSquare.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmSquare.cs",
-              "RelativeDocumentMoniker": "GeometricFigures\\FrmSquare.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmSquare.cs",
-              "RelativeToolTip": "GeometricFigures\\FrmSquare.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBQAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T22:17:54.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "SemiCircle.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\SemiCircle.cs",
               "RelativeDocumentMoniker": "GeometricFigures\\SemiCircle.cs",
@@ -361,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 26,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\Rectangle.cs",
               "RelativeDocumentMoniker": "GeometricFigures\\Rectangle.cs",
@@ -373,18 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "FrmSquare.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmSquare.cs",
-              "RelativeDocumentMoniker": "GeometricFigures\\FrmSquare.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmSquare.cs [Dise\u00F1o]",
-              "RelativeToolTip": "GeometricFigures\\FrmSquare.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T23:11:21.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 29,
               "Title": "FrmSemicircle.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmSemicircle.cs",
               "RelativeDocumentMoniker": "GeometricFigures\\FrmSemicircle.cs",
@@ -396,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 31,
               "Title": "FrmSemicircle.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmSemicircle.cs",
               "RelativeDocumentMoniker": "GeometricFigures\\FrmSemicircle.cs",
@@ -407,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 35,
               "Title": "FrmRhombus.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmRhombus.cs",
               "RelativeDocumentMoniker": "GeometricFigures\\FrmRhombus.cs",
@@ -419,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 36,
               "Title": "FrmRhomboid.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmRhomboid.cs",
               "RelativeDocumentMoniker": "GeometricFigures\\FrmRhomboid.cs",
@@ -428,18 +607,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T23:11:05.217Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "FrmRectangle.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmRectangle.cs",
-              "RelativeDocumentMoniker": "GeometricFigures\\FrmRectangle.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\GeometricFigures\\GeometricFigures\\FrmRectangle.cs",
-              "RelativeToolTip": "GeometricFigures\\FrmRectangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T23:10:50.698Z"
             }
           ]
         }
