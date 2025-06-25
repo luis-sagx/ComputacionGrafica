@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejercicios2p\\ejercicios2p\\domain\\abstracts\\algorithmcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\domain\\abstracts\\algorithmcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejercicios2p\\ejercicios2p\\views\\frmcohensutherland.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\views\\frmcohensutherland.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\ejercicios2p\\views\\frmcohensutherland.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\views\\frmcohensutherland.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\ejercicios2p\\views\\frmsuterlandhodgman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\views\\frmsuterlandhodgman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\ejercicios2p\\views\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\views\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\ejercicios2p\\views\\frmcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\views\\frmcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\ejercicios2p\\views\\frmsuterlandhodgman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\views\\frmsuterlandhodgman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\ejercicios2p\\algorithms\\sutherlandhodgmanalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\algorithms\\sutherlandhodgmanalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\ejercicios2p\\algorithms\\cohensutherlandalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\algorithms\\cohensutherlandalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\ejercicios2p\\algorithms\\linealgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\algorithms\\linealgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\ejercicios2p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\ejercicios2p\\views\\frmsuterlandhodgman.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\views\\frmsuterlandhodgman.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\ejercicios2p\\views\\frmcohensutherland.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\views\\frmcohensutherland.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlgorithmCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Domain\\Abstracts\\AlgorithmCalculator.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\Domain\\Abstracts\\AlgorithmCalculator.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Domain\\Abstracts\\AlgorithmCalculator.cs",
+              "RelativeToolTip": "Ejercicios2P\\Domain\\Abstracts\\AlgorithmCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T21:28:44.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmFloodFill.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Views\\FrmFloodFill.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\Views\\FrmFloodFill.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Views\\FrmFloodFill.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicios2P\\Views\\FrmFloodFill.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T15:04:31.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmCirculo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Views\\FrmCirculo.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\Views\\FrmCirculo.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Views\\FrmCirculo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicios2P\\Views\\FrmCirculo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T15:04:18.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LineAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Algorithms\\LineAlgorithm.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\Algorithms\\LineAlgorithm.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Algorithms\\LineAlgorithm.cs",
+              "RelativeToolTip": "Ejercicios2P\\Algorithms\\LineAlgorithm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T15:03:02.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SutherlandHodgmanAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Algorithms\\SutherlandHodgmanAlgorithm.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\Algorithms\\SutherlandHodgmanAlgorithm.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Algorithms\\SutherlandHodgmanAlgorithm.cs",
+              "RelativeToolTip": "Ejercicios2P\\Algorithms\\SutherlandHodgmanAlgorithm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:49:46.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmSuterlandHodgman.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Views\\FrmSuterlandHodgman.Designer.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\Views\\FrmSuterlandHodgman.Designer.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Views\\FrmSuterlandHodgman.Designer.cs",
+              "RelativeToolTip": "Ejercicios2P\\Views\\FrmSuterlandHodgman.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T15:11:50.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmSuterlandHodgman.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Views\\FrmSuterlandHodgman.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\Views\\FrmSuterlandHodgman.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Views\\FrmSuterlandHodgman.cs",
+              "RelativeToolTip": "Ejercicios2P\\Views\\FrmSuterlandHodgman.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T15:04:08.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmSuterlandHodgman.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Views\\FrmSuterlandHodgman.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\Views\\FrmSuterlandHodgman.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Views\\FrmSuterlandHodgman.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicios2P\\Views\\FrmSuterlandHodgman.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T14:55:13.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmCohenSutherland.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Views\\FrmCohenSutherland.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\Views\\FrmCohenSutherland.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Views\\FrmCohenSutherland.cs",
+              "RelativeToolTip": "Ejercicios2P\\Views\\FrmCohenSutherland.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAawKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T20:57:52.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCohenSutherland.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Views\\FrmCohenSutherland.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\Views\\FrmCohenSutherland.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Views\\FrmCohenSutherland.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicios2P\\Views\\FrmCohenSutherland.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:23:23.121Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmCohenSutherland.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Views\\FrmCohenSutherland.Designer.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\Views\\FrmCohenSutherland.Designer.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Views\\FrmCohenSutherland.Designer.cs",
+              "RelativeToolTip": "Ejercicios2P\\Views\\FrmCohenSutherland.Designer.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAnwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T12:22:57.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Program.cs",
+              "RelativeToolTip": "Ejercicios2P\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T22:48:44.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CohenSutherlandAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Algorithms\\CohenSutherlandAlgorithm.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\Algorithms\\CohenSutherlandAlgorithm.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Algorithms\\CohenSutherlandAlgorithm.cs",
+              "RelativeToolTip": "Ejercicios2P\\Algorithms\\CohenSutherlandAlgorithm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T15:00:40.865Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
