@@ -192,19 +192,19 @@
             this.lblTitulo.BackColor = System.Drawing.Color.SteelBlue;
             this.lblTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
             this.lblTitulo.ForeColor = System.Drawing.SystemColors.Control;
-            this.lblTitulo.Location = new System.Drawing.Point(-6, 32);
+            this.lblTitulo.Location = new System.Drawing.Point(0, 32);
             this.lblTitulo.Margin = new System.Windows.Forms.Padding(7, 6, 7, 6);
             this.lblTitulo.Name = "lblTitulo";
-            this.lblTitulo.Padding = new System.Windows.Forms.Padding(330, 8, 330, 8);
-            this.lblTitulo.Size = new System.Drawing.Size(922, 47);
+            this.lblTitulo.Padding = new System.Windows.Forms.Padding(390, 8, 390, 8);
+            this.lblTitulo.Size = new System.Drawing.Size(904, 47);
             this.lblTitulo.TabIndex = 85;
-            this.lblTitulo.Text = "Draw Line With DDA";
+            this.lblTitulo.Text = "Flood Fill";
             // 
             // rdPolygon
             // 
             this.rdPolygon.AutoSize = true;
             this.rdPolygon.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rdPolygon.Location = new System.Drawing.Point(213, 235);
+            this.rdPolygon.Location = new System.Drawing.Point(213, 237);
             this.rdPolygon.Name = "rdPolygon";
             this.rdPolygon.Size = new System.Drawing.Size(96, 26);
             this.rdPolygon.TabIndex = 86;
@@ -216,7 +216,7 @@
             // 
             this.rdStar.AutoSize = true;
             this.rdStar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rdStar.Location = new System.Drawing.Point(64, 235);
+            this.rdStar.Location = new System.Drawing.Point(64, 237);
             this.rdStar.Name = "rdStar";
             this.rdStar.Size = new System.Drawing.Size(64, 26);
             this.rdStar.TabIndex = 87;

@@ -39,7 +39,7 @@ namespace Algorithms.Algorithm
         {
             txtSides.Text = "";
             txtSides.Focus();
-            picCanvas?.Refresh();
+            picCanvas.Refresh();
             _ordinal = 1;
         }
 

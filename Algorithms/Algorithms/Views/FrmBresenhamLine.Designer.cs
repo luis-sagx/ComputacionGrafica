@@ -60,6 +60,7 @@
             this.btnBack.TabIndex = 82;
             this.btnBack.Text = "Back";
             this.btnBack.UseVisualStyleBackColor = false;
+            this.btnBack.Click += new System.EventHandler(this.btnBack_Click);
             // 
             // label7
             // 
@@ -150,6 +151,7 @@
             this.btnReset.TabIndex = 74;
             this.btnReset.Text = "Reset";
             this.btnReset.UseVisualStyleBackColor = false;
+            this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
             // 
             // btnCalculate
             // 
@@ -163,6 +165,7 @@
             this.btnCalculate.TabIndex = 73;
             this.btnCalculate.Text = "Draw ";
             this.btnCalculate.UseVisualStyleBackColor = false;
+            this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
             // 
             // picCanvas
             // 
@@ -258,6 +261,7 @@
             this.Controls.Add(this.txtPuntoxi);
             this.Name = "FrmBresenhamLine";
             this.Text = "FrmBresenhamLine";
+            this.Load += new System.EventHandler(this.FrmBresenham_Load);
             ((System.ComponentModel.ISupportInitialize)(this.picCanvas)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

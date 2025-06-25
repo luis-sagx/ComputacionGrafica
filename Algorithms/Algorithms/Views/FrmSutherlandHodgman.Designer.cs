@@ -49,6 +49,7 @@
             this.Controls.Add(this.picCanvas);
             this.Name = "FrmSutherlandHodgman";
             this.Text = "FrmSutherlandHodgman";
+            this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.picCanvas_MouseClick);
             ((System.ComponentModel.ISupportInitialize)(this.picCanvas)).EndInit();
             this.ResumeLayout(false);
 

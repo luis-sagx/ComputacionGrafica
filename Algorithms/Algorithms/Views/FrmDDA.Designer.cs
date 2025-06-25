@@ -60,6 +60,7 @@
             this.btnBack.TabIndex = 65;
             this.btnBack.Text = "Back";
             this.btnBack.UseVisualStyleBackColor = false;
+            this.btnBack.Click += new System.EventHandler(this.btnBack_Click);
             // 
             // label7
             // 
@@ -150,6 +151,7 @@
             this.btnReset.TabIndex = 57;
             this.btnReset.Text = "Reset";
             this.btnReset.UseVisualStyleBackColor = false;
+            this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
             // 
             // btnCalculate
             // 
@@ -163,6 +165,7 @@
             this.btnCalculate.TabIndex = 56;
             this.btnCalculate.Text = "Draw ";
             this.btnCalculate.UseVisualStyleBackColor = false;
+            this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
             // 
             // picCanvas
             // 
@@ -258,6 +261,7 @@
             this.Controls.Add(this.txtPuntoxi);
             this.Name = "FrmDDA";
             this.Text = "FrmDDA";
+            this.Load += new System.EventHandler(this.FrmDDA_Load);
             ((System.ComponentModel.ISupportInitialize)(this.picCanvas)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
