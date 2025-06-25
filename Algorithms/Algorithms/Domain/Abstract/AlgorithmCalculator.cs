@@ -49,5 +49,10 @@ namespace Algorithms.Domain.Abstract
             Thread.Sleep(animationDelay);
         }
 
+        public void CloseForm(Form objForm)
+        {
+            objForm.Close();
+        }
+
     }
 }
