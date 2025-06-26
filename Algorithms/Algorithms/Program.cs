@@ -17,7 +17,7 @@ namespace Algorithms
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmFloodFill());
+            Application.Run(new FrmEulerian());
         }
     }
 }

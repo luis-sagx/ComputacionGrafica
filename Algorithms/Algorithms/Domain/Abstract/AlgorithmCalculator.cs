@@ -13,7 +13,7 @@ namespace Algorithms.Domain.Abstract
     {
         protected Graphics mGraph;
         protected Pen mPen;
-        protected int animationDelay = 80;
+        protected int animationDelay = 10;
 
         public Color DrawingColor { get; set; } = Color.Black;
         public int AnimationDelay
