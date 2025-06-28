@@ -1,0 +1,10 @@
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Sagnay_Luis_Leccion2\Sagnay_Luis_Leccion2\obj\Debug\Sagnay_Luis_Leccion2.csproj.AssemblyReference.cache
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Sagnay_Luis_Leccion2\Sagnay_Luis_Leccion2\obj\Debug\Sagnay_Luis_Leccion2.FrmClock.resources
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Sagnay_Luis_Leccion2\Sagnay_Luis_Leccion2\obj\Debug\Sagnay_Luis_Leccion2.Properties.Resources.resources
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Sagnay_Luis_Leccion2\Sagnay_Luis_Leccion2\obj\Debug\Sagnay_Luis_Leccion2.csproj.GenerateResource.cache
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Sagnay_Luis_Leccion2\Sagnay_Luis_Leccion2\obj\Debug\Sagnay_Luis_Leccion2.csproj.CoreCompileInputs.cache
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Sagnay_Luis_Leccion2\Sagnay_Luis_Leccion2\bin\Debug\Sagnay_Luis_Leccion2.exe.config
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Sagnay_Luis_Leccion2\Sagnay_Luis_Leccion2\bin\Debug\Sagnay_Luis_Leccion2.exe
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Sagnay_Luis_Leccion2\Sagnay_Luis_Leccion2\bin\Debug\Sagnay_Luis_Leccion2.pdb
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Sagnay_Luis_Leccion2\Sagnay_Luis_Leccion2\obj\Debug\Sagnay_Luis_Leccion2.exe
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Sagnay_Luis_Leccion2\Sagnay_Luis_Leccion2\obj\Debug\Sagnay_Luis_Leccion2.pdb

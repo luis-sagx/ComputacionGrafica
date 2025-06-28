@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\sagnay_luis_leccion2\\clockdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|solutionrelative:sagnay_luis_leccion2\\clockdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\sagnay_luis_leccion2\\sagnay_luis_leccion2\\ddaalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|solutionrelative:sagnay_luis_leccion2\\ddaalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\sagnay_luis_leccion2\\floodfillalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|solutionrelative:sagnay_luis_leccion2\\floodfillalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\sagnay_luis_leccion2\\frmclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|solutionrelative:sagnay_luis_leccion2\\frmclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\sagnay_luis_leccion2\\frmclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|solutionrelative:sagnay_luis_leccion2\\frmclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\sagnay_luis_leccion2\\frmclock.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|solutionrelative:sagnay_luis_leccion2\\frmclock.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\sagnay_luis_leccion2\\bresenhamcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|solutionrelative:sagnay_luis_leccion2\\bresenhamcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\sagnay_luis_leccion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|solutionrelative:sagnay_luis_leccion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmClock.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2\\FrmClock.Designer.cs",
+              "RelativeDocumentMoniker": "Sagnay_Luis_Leccion2\\FrmClock.Designer.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2\\FrmClock.Designer.cs",
+              "RelativeToolTip": "Sagnay_Luis_Leccion2\\FrmClock.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAApwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:59:21.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClockDrawer.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2\\ClockDrawer.cs",
+              "RelativeDocumentMoniker": "Sagnay_Luis_Leccion2\\ClockDrawer.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2\\ClockDrawer.cs",
+              "RelativeToolTip": "Sagnay_Luis_Leccion2\\ClockDrawer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:45:14.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2\\Program.cs",
+              "RelativeDocumentMoniker": "Sagnay_Luis_Leccion2\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2\\Program.cs",
+              "RelativeToolTip": "Sagnay_Luis_Leccion2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:35:22.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmClock.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2\\FrmClock.cs",
+              "RelativeDocumentMoniker": "Sagnay_Luis_Leccion2\\FrmClock.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2\\FrmClock.cs",
+              "RelativeToolTip": "Sagnay_Luis_Leccion2\\FrmClock.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:28:10.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmClock.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2\\FrmClock.cs",
+              "RelativeDocumentMoniker": "Sagnay_Luis_Leccion2\\FrmClock.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2\\FrmClock.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sagnay_Luis_Leccion2\\FrmClock.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:23:19.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FloodFillAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2\\FloodFillAlgorithm.cs",
+              "RelativeDocumentMoniker": "Sagnay_Luis_Leccion2\\FloodFillAlgorithm.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2\\FloodFillAlgorithm.cs",
+              "RelativeToolTip": "Sagnay_Luis_Leccion2\\FloodFillAlgorithm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:20:24.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DDAAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2\\DDAAlgorithm.cs",
+              "RelativeDocumentMoniker": "Sagnay_Luis_Leccion2\\DDAAlgorithm.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2\\DDAAlgorithm.cs",
+              "RelativeToolTip": "Sagnay_Luis_Leccion2\\DDAAlgorithm.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:19:01.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BresenhamCircle.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2\\BresenhamCircle.cs",
+              "RelativeDocumentMoniker": "Sagnay_Luis_Leccion2\\BresenhamCircle.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2\\BresenhamCircle.cs",
+              "RelativeToolTip": "Sagnay_Luis_Leccion2\\BresenhamCircle.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:11:58.183Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\ejercicios2p\\views\\frmcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejercicios2p\\ejercicios2p\\views\\frmcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\views\\frmcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -55,7 +55,7 @@
       "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\domain\\abstracts\\algorithmcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejercicios2p\\ejercicios2p\\views\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\ejercicios2p\\views\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\views\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -118,8 +118,7 @@
               "RelativeToolTip": "Ejercicios2P\\Algorithms\\BresenhamAlgorithm.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T14:48:27.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T14:48:27.891Z"
             },
             {
               "$type": "Document",
@@ -131,8 +130,7 @@
               "RelativeToolTip": "Ejercicios2P\\Algorithms\\DDAAlgorithm.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAQwDAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T14:40:18.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T14:40:18.577Z"
             },
             {
               "$type": "Document",
@@ -144,8 +142,7 @@
               "RelativeToolTip": "Ejercicios2P\\Algorithms\\CircleBresenham.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAowFMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T14:48:32.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T14:48:32.305Z"
             },
             {
               "$type": "Document",
@@ -157,8 +154,7 @@
               "RelativeToolTip": "Ejercicios2P\\Algorithms\\FloodFillAlgorithm.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAqwEQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T04:24:11.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T04:24:11.773Z"
             },
             {
               "$type": "Document",
@@ -170,8 +166,7 @@
               "RelativeToolTip": "Ejercicios2P\\Utils\\PolygonGenerator.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T15:35:24.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T15:35:24.72Z"
             },
             {
               "$type": "Document",
@@ -183,8 +178,7 @@
               "RelativeToolTip": "Ejercicios2P\\Utils\\Table.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T22:17:49.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T22:17:49.403Z"
             },
             {
               "$type": "Document",
@@ -208,8 +202,7 @@
               "RelativeToolTip": "Ejercicios2P\\Views\\FrmDDA.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T15:09:38.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T15:09:38.967Z"
             },
             {
               "$type": "Document",
@@ -220,8 +213,7 @@
               "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Views\\FrmDDA.cs [Dise\u00F1o]",
               "RelativeToolTip": "Ejercicios2P\\Views\\FrmDDA.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T14:41:50.847Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-06-12T14:41:50.847Z"
             },
             {
               "$type": "Document",
@@ -232,8 +224,7 @@
               "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Ejercicios2P\\Ejercicios2P\\Views\\FrmMain.cs [Dise\u00F1o]",
               "RelativeToolTip": "Ejercicios2P\\Views\\FrmMain.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T04:08:05.827Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-06-14T04:08:05.827Z"
             },
             {
               "$type": "Document",
@@ -245,8 +236,7 @@
               "RelativeToolTip": "Ejercicios2P\\Domain\\Models\\Point2D.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T23:26:05.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T23:26:05.04Z"
             },
             {
               "$type": "Document",
@@ -258,8 +248,7 @@
               "RelativeToolTip": "Ejercicios2P\\Algorithms\\LineAlgorithm.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T23:28:11.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T23:28:11.559Z"
             },
             {
               "$type": "Document",
@@ -271,8 +260,7 @@
               "RelativeToolTip": "Ejercicios2P\\Domain\\Abstracts\\AlgorithmCalculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T15:40:43.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T15:40:43.454Z"
             },
             {
               "$type": "Document",
@@ -284,8 +272,7 @@
               "RelativeToolTip": "Ejercicios2P\\Views\\FrmFloodFill.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAIwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T03:08:31.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T03:08:31.926Z"
             },
             {
               "$type": "Document",
@@ -331,8 +318,7 @@
               "RelativeToolTip": "Ejercicios2P\\Views\\FrmMain.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAkwC8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T04:17:48.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T04:17:48.382Z"
             },
             {
               "$type": "Document",
@@ -344,8 +330,7 @@
               "RelativeToolTip": "Ejercicios2P\\Views\\FrmCirculo.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAkwDAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T22:20:29.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T22:20:29.271Z"
             },
             {
               "$type": "Document",
