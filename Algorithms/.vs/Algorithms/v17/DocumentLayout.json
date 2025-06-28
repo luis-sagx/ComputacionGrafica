@@ -3,56 +3,92 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\algorithms\\domain\\abstract\\algorithmcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\domain\\abstract\\algorithmcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\algorithm\\curves\\bsplinecurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\algorithm\\curves\\bsplinecurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\algorithms\\algorithm\\ddaalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\algorithm\\ddaalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\views\\frmcurves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\views\\frmcurves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\algorithm\\curves\\beziercurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\algorithm\\curves\\beziercurve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\domain\\interface\\icurvealgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\domain\\interface\\icurvealgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\views\\frmcurves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\views\\frmcurves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\views\\frmcurves.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\views\\frmcurves.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\views\\frmcohensutherland.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\views\\frmcohensutherland.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\views\\frmbresenhamellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\views\\frmbresenhamellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\views\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\views\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\views\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\views\\frmfloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\views\\frmbresenhamline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\views\\frmbresenhamline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\views\\frmdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\views\\frmdda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\views\\frmbresenhamcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\views\\frmbresenhamcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\views\\frmbresenhamellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\views\\frmbresenhamellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\algorithms\\domain\\abstract\\linealgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\domain\\abstract\\linealgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\utils\\starfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\utils\\starfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\algorithm\\fill\\filliterativealgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\algorithm\\fill\\filliterativealgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\algorithms\\views\\frmeulerian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\views\\frmeulerian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\algorithm\\fill\\floodfillalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\algorithm\\fill\\floodfillalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\algorithms\\views\\frmeulerian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\views\\frmeulerian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\utils\\shapegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\utils\\shapegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\algorithms\\algorithm\\eulerianfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\algorithm\\eulerianfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\domain\\abstract\\fillalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\domain\\abstract\\fillalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\algorithms\\utils\\polygongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\utils\\polygongenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\algorithm\\rasterization\\ellipsebresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\algorithm\\rasterization\\ellipsebresenham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\algorithms\\views\\frmeulerian.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\views\\frmeulerian.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\algorithms\\views\\frmsutherlandhodgman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\views\\frmsutherlandhodgman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\algorithms\\views\\frmbresenhamcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\views\\frmbresenhamcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\algorithms\\views\\frmbresenhamcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\views\\frmbresenhamcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\algorithms\\algorithms\\domain\\abstract\\ellipsealgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61A5AB07-9654-4B3C-A42F-6425D0F8F8CE}|Algorithms\\Algorithms.csproj|solutionrelative:algorithms\\domain\\abstract\\ellipsealgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,8 +98,274 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmCurves.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmCurves.Designer.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Views\\FrmCurves.Designer.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmCurves.Designer.cs",
+              "RelativeToolTip": "Algorithms\\Views\\FrmCurves.Designer.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAnwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:50:45.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICurveAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Domain\\Interface\\ICurveAlgorithm.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Domain\\Interface\\ICurveAlgorithm.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Domain\\Interface\\ICurveAlgorithm.cs",
+              "RelativeToolTip": "Algorithms\\Domain\\Interface\\ICurveAlgorithm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:47:19.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCurves.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmCurves.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Views\\FrmCurves.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmCurves.cs",
+              "RelativeToolTip": "Algorithms\\Views\\FrmCurves.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwv1wAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:34:45.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmCurves.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmCurves.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Views\\FrmCurves.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmCurves.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Algorithms\\Views\\FrmCurves.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:07:11.787Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BSplineCurve.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Algorithm\\Curves\\BSplineCurve.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Algorithm\\Curves\\BSplineCurve.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Algorithm\\Curves\\BSplineCurve.cs",
+              "RelativeToolTip": "Algorithms\\Algorithm\\Curves\\BSplineCurve.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:06:32.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BezierCurve.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Algorithm\\Curves\\BezierCurve.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Algorithm\\Curves\\BezierCurve.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Algorithm\\Curves\\BezierCurve.cs",
+              "RelativeToolTip": "Algorithms\\Algorithm\\Curves\\BezierCurve.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:05:16.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmDDA.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmDDA.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Views\\FrmDDA.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmDDA.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Algorithms\\Views\\FrmDDA.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T03:01:08.277Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmBresenhamCircle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmBresenhamCircle.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Views\\FrmBresenhamCircle.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmBresenhamCircle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Algorithms\\Views\\FrmBresenhamCircle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:58:37.093Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmBresenhamLine.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmBresenhamLine.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Views\\FrmBresenhamLine.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmBresenhamLine.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Algorithms\\Views\\FrmBresenhamLine.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:58:25.466Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmFloodFill.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmFloodFill.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Views\\FrmFloodFill.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmFloodFill.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Algorithms\\Views\\FrmFloodFill.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:17:04.317Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmFloodFill.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmFloodFill.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Views\\FrmFloodFill.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmFloodFill.cs",
+              "RelativeToolTip": "Algorithms\\Views\\FrmFloodFill.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:13:20.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FillIterativeAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Algorithm\\Fill\\FillIterativeAlgorithm.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Algorithm\\Fill\\FillIterativeAlgorithm.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Algorithm\\Fill\\FillIterativeAlgorithm.cs",
+              "RelativeToolTip": "Algorithms\\Algorithm\\Fill\\FillIterativeAlgorithm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:10:51.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FillAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Domain\\Abstract\\FillAlgorithm.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Domain\\Abstract\\FillAlgorithm.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Domain\\Abstract\\FillAlgorithm.cs",
+              "RelativeToolTip": "Algorithms\\Domain\\Abstract\\FillAlgorithm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:05:26.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShapeGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Utils\\ShapeGenerator.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Utils\\ShapeGenerator.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Utils\\ShapeGenerator.cs",
+              "RelativeToolTip": "Algorithms\\Utils\\ShapeGenerator.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:00:40.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FloodFillAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Algorithm\\Fill\\FloodFillAlgorithm.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Algorithm\\Fill\\FloodFillAlgorithm.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Algorithm\\Fill\\FloodFillAlgorithm.cs",
+              "RelativeToolTip": "Algorithms\\Algorithm\\Fill\\FloodFillAlgorithm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:50:28.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Program.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Program.cs",
+              "RelativeToolTip": "Algorithms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:47:43.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmBresenhamEllipse.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmBresenhamEllipse.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Views\\FrmBresenhamEllipse.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmBresenhamEllipse.cs",
+              "RelativeToolTip": "Algorithms\\Views\\FrmBresenhamEllipse.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAWwCMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:44:33.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmBresenhamEllipse.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmBresenhamEllipse.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Views\\FrmBresenhamEllipse.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmBresenhamEllipse.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Algorithms\\Views\\FrmBresenhamEllipse.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:40:39.489Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmCohenSutherland.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmCohenSutherland.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Views\\FrmCohenSutherland.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmCohenSutherland.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Algorithms\\Views\\FrmCohenSutherland.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:40:13.355Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EllipseBresenham.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Algorithm\\Rasterization\\EllipseBresenham.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Algorithm\\Rasterization\\EllipseBresenham.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Algorithm\\Rasterization\\EllipseBresenham.cs",
+              "RelativeToolTip": "Algorithms\\Algorithm\\Rasterization\\EllipseBresenham.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:37:19.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EllipseAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Domain\\Abstract\\EllipseAlgorithm.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Domain\\Abstract\\EllipseAlgorithm.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Domain\\Abstract\\EllipseAlgorithm.cs",
+              "RelativeToolTip": "Algorithms\\Domain\\Abstract\\EllipseAlgorithm.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:30:43.851Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
@@ -78,160 +380,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PolygonGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Utils\\PolygonGenerator.cs",
-              "RelativeDocumentMoniker": "Algorithms\\Utils\\PolygonGenerator.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Utils\\PolygonGenerator.cs",
-              "RelativeToolTip": "Algorithms\\Utils\\PolygonGenerator.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T13:39:09.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FrmEulerian.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmEulerian.Designer.cs",
-              "RelativeDocumentMoniker": "Algorithms\\Views\\FrmEulerian.Designer.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmEulerian.Designer.cs",
-              "RelativeToolTip": "Algorithms\\Views\\FrmEulerian.Designer.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAawEwAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T13:24:49.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Program.cs",
-              "RelativeDocumentMoniker": "Algorithms\\Program.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Program.cs",
-              "RelativeToolTip": "Algorithms\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T13:17:39.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmEulerian.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmEulerian.cs",
-              "RelativeDocumentMoniker": "Algorithms\\Views\\FrmEulerian.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmEulerian.cs",
-              "RelativeToolTip": "Algorithms\\Views\\FrmEulerian.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwDkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T13:15:50.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmEulerian.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmEulerian.cs",
-              "RelativeDocumentMoniker": "Algorithms\\Views\\FrmEulerian.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmEulerian.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Algorithms\\Views\\FrmEulerian.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T13:15:32.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StarFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Utils\\StarFactory.cs",
-              "RelativeDocumentMoniker": "Algorithms\\Utils\\StarFactory.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Utils\\StarFactory.cs",
-              "RelativeToolTip": "Algorithms\\Utils\\StarFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T13:15:04.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EulerianFigure.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Algorithm\\EulerianFigure.cs",
-              "RelativeDocumentMoniker": "Algorithms\\Algorithm\\EulerianFigure.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Algorithm\\EulerianFigure.cs",
-              "RelativeToolTip": "Algorithms\\Algorithm\\EulerianFigure.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAAD0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T13:14:32.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DDAAlgorithm.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Algorithm\\DDAAlgorithm.cs",
-              "RelativeDocumentMoniker": "Algorithms\\Algorithm\\DDAAlgorithm.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Algorithm\\DDAAlgorithm.cs",
-              "RelativeToolTip": "Algorithms\\Algorithm\\DDAAlgorithm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T13:12:27.616Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "LineAlgorithm.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Domain\\Abstract\\LineAlgorithm.cs",
               "RelativeDocumentMoniker": "Algorithms\\Domain\\Abstract\\LineAlgorithm.cs",
               "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Domain\\Abstract\\LineAlgorithm.cs",
               "RelativeToolTip": "Algorithms\\Domain\\Abstract\\LineAlgorithm.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T13:12:14.818Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AlgorithmCalculator.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Domain\\Abstract\\AlgorithmCalculator.cs",
-              "RelativeDocumentMoniker": "Algorithms\\Domain\\Abstract\\AlgorithmCalculator.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Domain\\Abstract\\AlgorithmCalculator.cs",
-              "RelativeToolTip": "Algorithms\\Domain\\Abstract\\AlgorithmCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T20:28:16.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FrmBresenhamCircle.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmBresenhamCircle.cs",
-              "RelativeDocumentMoniker": "Algorithms\\Views\\FrmBresenhamCircle.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmBresenhamCircle.cs",
-              "RelativeToolTip": "Algorithms\\Views\\FrmBresenhamCircle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T20:19:13.475Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FrmBresenhamCircle.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmBresenhamCircle.cs",
-              "RelativeDocumentMoniker": "Algorithms\\Views\\FrmBresenhamCircle.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmBresenhamCircle.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Algorithms\\Views\\FrmBresenhamCircle.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T20:14:46.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FrmSutherlandHodgman.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmSutherlandHodgman.cs",
-              "RelativeDocumentMoniker": "Algorithms\\Views\\FrmSutherlandHodgman.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Algorithms\\Algorithms\\Views\\FrmSutherlandHodgman.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Algorithms\\Views\\FrmSutherlandHodgman.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T20:11:07.524Z"
             }
           ]
         }

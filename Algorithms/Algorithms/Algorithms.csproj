@@ -46,27 +46,38 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Algorithm\BresenhamAlgorithm.cs" />
-    <Compile Include="Algorithm\CircleBresenham.cs" />
-    <Compile Include="Algorithm\CohenSutherlandAlgorithm.cs" />
-    <Compile Include="Algorithm\DDAAlgorithm.cs" />
-    <Compile Include="Algorithm\EulerianFigure.cs" />
-    <Compile Include="Algorithm\FloodFillAlgorithm.cs" />
-    <Compile Include="Algorithm\SutherlandHodgmanAlgorithm.cs" />
+    <Compile Include="Algorithm\Curves\BezierCurve.cs" />
+    <Compile Include="Algorithm\Curves\BSplineCurve.cs" />
+    <Compile Include="Algorithm\Fill\FillIterativeAlgorithm.cs" />
+    <Compile Include="Algorithm\Rasterization\BresenhamAlgorithm.cs" />
+    <Compile Include="Algorithm\Rasterization\CircleBresenham.cs" />
+    <Compile Include="Algorithm\Clipping\CohenSutherlandAlgorithm.cs" />
+    <Compile Include="Algorithm\Rasterization\DDAAlgorithm.cs" />
+    <Compile Include="Algorithm\Fill\FloodFillAlgorithm.cs" />
+    <Compile Include="Algorithm\Clipping\SutherlandHodgmanAlgorithm.cs" />
+    <Compile Include="Algorithm\Rasterization\EllipseBresenham.cs" />
     <Compile Include="Domain\Abstract\AlgorithmCalculator.cs" />
     <Compile Include="Domain\Abstract\CircleAlgorithm.cs" />
     <Compile Include="Domain\Abstract\ClippingAlgorithm.cs" />
+    <Compile Include="Domain\Abstract\EllipseAlgorithm.cs" />
+    <Compile Include="Domain\Abstract\FillAlgorithm.cs" />
     <Compile Include="Domain\Abstract\LineAlgorithm.cs" />
+    <Compile Include="Domain\Interface\ICurveAlgorithm.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utils\ColorHelper.cs" />
-    <Compile Include="Utils\PolygonGenerator.cs" />
-    <Compile Include="Utils\StarFactory.cs" />
+    <Compile Include="Utils\ShapeGenerator.cs" />
     <Compile Include="Views\FrmBresenhamCircle.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Views\FrmBresenhamCircle.Designer.cs">
       <DependentUpon>FrmBresenhamCircle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FrmBresenhamEllipse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\FrmBresenhamEllipse.Designer.cs">
+      <DependentUpon>FrmBresenhamEllipse.cs</DependentUpon>
     </Compile>
     <Compile Include="Views\FrmBresenhamLine.cs">
       <SubType>Form</SubType>
@@ -80,17 +91,17 @@
     <Compile Include="Views\FrmCohenSutherland.Designer.cs">
       <DependentUpon>FrmCohenSutherland.cs</DependentUpon>
     </Compile>
+    <Compile Include="Views\FrmCurves.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\FrmCurves.Designer.cs">
+      <DependentUpon>FrmCurves.cs</DependentUpon>
+    </Compile>
     <Compile Include="Views\FrmDDA.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Views\FrmDDA.Designer.cs">
       <DependentUpon>FrmDDA.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Views\FrmEulerian.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Views\FrmEulerian.Designer.cs">
-      <DependentUpon>FrmEulerian.cs</DependentUpon>
     </Compile>
     <Compile Include="Views\FrmFloodFill.cs">
       <SubType>Form</SubType>
@@ -122,17 +133,20 @@
     <EmbeddedResource Include="Views\FrmBresenhamCircle.resx">
       <DependentUpon>FrmBresenhamCircle.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\FrmBresenhamEllipse.resx">
+      <DependentUpon>FrmBresenhamEllipse.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\FrmBresenhamLine.resx">
       <DependentUpon>FrmBresenhamLine.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\FrmCohenSutherland.resx">
       <DependentUpon>FrmCohenSutherland.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\FrmCurves.resx">
+      <DependentUpon>FrmCurves.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\FrmDDA.resx">
       <DependentUpon>FrmDDA.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Views\FrmEulerian.resx">
-      <DependentUpon>FrmEulerian.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\FrmFloodFill.resx">
       <DependentUpon>FrmFloodFill.cs</DependentUpon>

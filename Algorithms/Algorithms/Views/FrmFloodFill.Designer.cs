@@ -41,9 +41,10 @@
             this.btnReset = new System.Windows.Forms.Button();
             this.btnCalculate = new System.Windows.Forms.Button();
             this.lblTitulo = new System.Windows.Forms.Label();
-            this.rdPolygon = new System.Windows.Forms.RadioButton();
-            this.rdStar = new System.Windows.Forms.RadioButton();
             this.label1 = new System.Windows.Forms.Label();
+            this.rbRecursive = new System.Windows.Forms.RadioButton();
+            this.rbIterative = new System.Windows.Forms.RadioButton();
+            this.cmbShape = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.picCanvas)).BeginInit();
             this.SuspendLayout();
             // 
@@ -52,10 +53,10 @@
             this.btnSelectColor.BackColor = System.Drawing.Color.SteelBlue;
             this.btnSelectColor.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
             this.btnSelectColor.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnSelectColor.Location = new System.Drawing.Point(221, 358);
+            this.btnSelectColor.Location = new System.Drawing.Point(232, 379);
             this.btnSelectColor.Margin = new System.Windows.Forms.Padding(4);
             this.btnSelectColor.Name = "btnSelectColor";
-            this.btnSelectColor.Size = new System.Drawing.Size(136, 43);
+            this.btnSelectColor.Size = new System.Drawing.Size(121, 43);
             this.btnSelectColor.TabIndex = 81;
             this.btnSelectColor.Text = "Fill Color";
             this.btnSelectColor.UseVisualStyleBackColor = false;
@@ -65,7 +66,7 @@
             // 
             this.lblcolor.AutoSize = true;
             this.lblcolor.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-            this.lblcolor.Location = new System.Drawing.Point(60, 368);
+            this.lblcolor.Location = new System.Drawing.Point(56, 389);
             this.lblcolor.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblcolor.Name = "lblcolor";
             this.lblcolor.Size = new System.Drawing.Size(101, 24);
@@ -97,7 +98,7 @@
             // 
             this.lblInput.AutoSize = true;
             this.lblInput.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-            this.lblInput.Location = new System.Drawing.Point(60, 301);
+            this.lblInput.Location = new System.Drawing.Point(56, 322);
             this.lblInput.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblInput.Name = "lblInput";
             this.lblInput.Size = new System.Drawing.Size(153, 24);
@@ -138,10 +139,10 @@
             // txtSides
             // 
             this.txtSides.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-            this.txtSides.Location = new System.Drawing.Point(221, 301);
+            this.txtSides.Location = new System.Drawing.Point(232, 322);
             this.txtSides.Margin = new System.Windows.Forms.Padding(4);
             this.txtSides.Name = "txtSides";
-            this.txtSides.Size = new System.Drawing.Size(136, 28);
+            this.txtSides.Size = new System.Drawing.Size(121, 28);
             this.txtSides.TabIndex = 70;
             // 
             // btnBack
@@ -200,49 +201,59 @@
             this.lblTitulo.TabIndex = 85;
             this.lblTitulo.Text = "Flood Fill";
             // 
-            // rdPolygon
-            // 
-            this.rdPolygon.AutoSize = true;
-            this.rdPolygon.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rdPolygon.Location = new System.Drawing.Point(213, 237);
-            this.rdPolygon.Name = "rdPolygon";
-            this.rdPolygon.Size = new System.Drawing.Size(96, 26);
-            this.rdPolygon.TabIndex = 86;
-            this.rdPolygon.TabStop = true;
-            this.rdPolygon.Text = "Polygon";
-            this.rdPolygon.UseVisualStyleBackColor = true;
-            // 
-            // rdStar
-            // 
-            this.rdStar.AutoSize = true;
-            this.rdStar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rdStar.Location = new System.Drawing.Point(64, 237);
-            this.rdStar.Name = "rdStar";
-            this.rdStar.Size = new System.Drawing.Size(64, 26);
-            this.rdStar.TabIndex = 87;
-            this.rdStar.TabStop = true;
-            this.rdStar.Text = "Star";
-            this.rdStar.UseVisualStyleBackColor = true;
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-            this.label1.Location = new System.Drawing.Point(59, 195);
+            this.label1.Location = new System.Drawing.Point(56, 258);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(169, 24);
             this.label1.TabIndex = 88;
             this.label1.Text = "Choose the shape:";
             // 
+            // rbRecursive
+            // 
+            this.rbRecursive.AutoSize = true;
+            this.rbRecursive.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rbRecursive.Location = new System.Drawing.Point(60, 189);
+            this.rbRecursive.Name = "rbRecursive";
+            this.rbRecursive.Size = new System.Drawing.Size(111, 26);
+            this.rbRecursive.TabIndex = 90;
+            this.rbRecursive.TabStop = true;
+            this.rbRecursive.Text = "Recursive";
+            this.rbRecursive.UseVisualStyleBackColor = true;
+            // 
+            // rbIterative
+            // 
+            this.rbIterative.AutoSize = true;
+            this.rbIterative.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rbIterative.Location = new System.Drawing.Point(209, 189);
+            this.rbIterative.Name = "rbIterative";
+            this.rbIterative.Size = new System.Drawing.Size(94, 26);
+            this.rbIterative.TabIndex = 89;
+            this.rbIterative.TabStop = true;
+            this.rbIterative.Text = "Iterative";
+            this.rbIterative.UseVisualStyleBackColor = true;
+            // 
+            // cmbShape
+            // 
+            this.cmbShape.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmbShape.FormattingEnabled = true;
+            this.cmbShape.Location = new System.Drawing.Point(232, 258);
+            this.cmbShape.Name = "cmbShape";
+            this.cmbShape.Size = new System.Drawing.Size(121, 30);
+            this.cmbShape.TabIndex = 91;
+            // 
             // FrmFloodFill
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(902, 553);
+            this.Controls.Add(this.cmbShape);
+            this.Controls.Add(this.rbRecursive);
+            this.Controls.Add(this.rbIterative);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.rdStar);
-            this.Controls.Add(this.rdPolygon);
             this.Controls.Add(this.lblTitulo);
             this.Controls.Add(this.btnBack);
             this.Controls.Add(this.btnReset);
@@ -280,8 +291,9 @@
         private System.Windows.Forms.Button btnReset;
         private System.Windows.Forms.Button btnCalculate;
         private System.Windows.Forms.Label lblTitulo;
-        private System.Windows.Forms.RadioButton rdPolygon;
-        private System.Windows.Forms.RadioButton rdStar;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.RadioButton rbRecursive;
+        private System.Windows.Forms.RadioButton rbIterative;
+        private System.Windows.Forms.ComboBox cmbShape;
     }
 }

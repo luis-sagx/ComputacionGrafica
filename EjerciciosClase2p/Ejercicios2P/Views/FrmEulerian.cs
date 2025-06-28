@@ -7,10 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Algorithms.Algorithm;
-using Algorithms.Utils;
+using Ejercicios2P.Algorithms;
+using Ejercicios2P.Utils;
 
-namespace Algorithms.Views
+namespace Ejercicios2P.Views
 {
     public partial class FrmEulerian : Form
     {

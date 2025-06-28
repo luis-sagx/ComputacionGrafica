@@ -21,18 +21,18 @@ namespace Algorithms.Views
 
         private void FrmBresenhamCircle_Load(object sender, EventArgs e)
         {
-            objCircleBresenham.InitializeData(txtPuntox,txtPuntoy, txtRadius, picCanvas);
+            objCircleBresenham.InitializeData(txtPuntox,txtPuntoy, txtRadius, txtRadius, picCanvas);
         }
 
         private void btnCalculate_Click(object sender, EventArgs e)
         {
-            objCircleBresenham.ReadData(txtPuntox, txtPuntoy, txtRadius);
+            objCircleBresenham.ReadData(txtPuntox, txtPuntoy, txtRadius, txtRadius);
             objCircleBresenham.Draw(picCanvas);
         }
 
         private void btnReset_Click(object sender, EventArgs e)
         {
-            objCircleBresenham.InitializeData(txtPuntox, txtPuntoy, txtRadius, picCanvas);
+            objCircleBresenham.InitializeData(txtPuntox, txtPuntoy, txtRadius, txtRadius, picCanvas);
         }
 
         private void btnBack_Click(object sender, EventArgs e)

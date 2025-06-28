@@ -4,9 +4,9 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Algorithms.Algorithm;
+using Ejercicios2P.Algorithms;
 
-namespace Algorithms.Utils
+namespace Ejercicios2P.Utils
 {
     public static class StarFactory
     {
@@ -60,7 +60,7 @@ namespace Algorithms.Utils
 
         public static EulerianFigure CreateStarOfDavid()
         {
-            var triangle1 = GenerateRegularPolygon(3, 100); 
+            var triangle1 = GenerateRegularPolygon(3, 100);
             var triangle2 = GenerateRegularPolygon(3, 100);
             for (int i = 0; i < triangle2.Count; i++)
                 triangle2[i] = new PointF(triangle2[i].X, -triangle2[i].Y); // triángulo invertido
@@ -69,7 +69,7 @@ namespace Algorithms.Utils
 
             var path = new List<int>
         {
-            0, 1, 2, 0, 3, 4, 5, 3 
+            0, 1, 2, 0, 3, 4, 5, 3
         };
 
             return new EulerianFigure(allPoints, path);
@@ -77,12 +77,12 @@ namespace Algorithms.Utils
 
         public static EulerianFigure CreatePentagonWithStar()
         {
-            var outer = GenerateRegularPolygon(5, 100); 
+            var outer = GenerateRegularPolygon(5, 100);
             var path = new List<int>();
 
             for (int i = 0; i < 5; i++)
                 path.Add(i);
-            path.Add(0); 
+            path.Add(0);
 
             int current = 0;
             int step = 2;
@@ -142,7 +142,7 @@ namespace Algorithms.Utils
                 {
                     int i = pointIndex[(x, y)];
                     int j = (x + y) % 2 == 0
-                        ? pointIndex[(x + 1, y + 1)] 
+                        ? pointIndex[(x + 1, y + 1)]
                         : pointIndex[(x + 1, y)] + 1;
 
                     path.Add(i);
