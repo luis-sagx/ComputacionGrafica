@@ -72,26 +72,27 @@
             this.lblTitulo.BackColor = System.Drawing.Color.SteelBlue;
             this.lblTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
             this.lblTitulo.ForeColor = System.Drawing.SystemColors.Control;
-            this.lblTitulo.Location = new System.Drawing.Point(-1, 33);
+            this.lblTitulo.Location = new System.Drawing.Point(-14, 33);
             this.lblTitulo.Margin = new System.Windows.Forms.Padding(7, 6, 7, 6);
             this.lblTitulo.Name = "lblTitulo";
-            this.lblTitulo.Padding = new System.Windows.Forms.Padding(390, 8, 390, 8);
-            this.lblTitulo.Size = new System.Drawing.Size(904, 47);
+            this.lblTitulo.Padding = new System.Windows.Forms.Padding(380, 8, 380, 8);
+            this.lblTitulo.Size = new System.Drawing.Size(932, 47);
             this.lblTitulo.TabIndex = 104;
-            this.lblTitulo.Text = "Flood Fill";
+            this.lblTitulo.Text = "Draw Curves";
             // 
             // btnBack
             // 
             this.btnBack.BackColor = System.Drawing.Color.SteelBlue;
             this.btnBack.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
             this.btnBack.ForeColor = System.Drawing.Color.White;
-            this.btnBack.Location = new System.Drawing.Point(181, 461);
+            this.btnBack.Location = new System.Drawing.Point(162, 461);
             this.btnBack.Margin = new System.Windows.Forms.Padding(4);
             this.btnBack.Name = "btnBack";
             this.btnBack.Size = new System.Drawing.Size(95, 43);
             this.btnBack.TabIndex = 103;
             this.btnBack.Text = "Back";
             this.btnBack.UseVisualStyleBackColor = false;
+            this.btnBack.Click += new System.EventHandler(this.btnBack_Click);
             // 
             // btnReset
             // 
@@ -115,7 +116,7 @@
             this.btnCalculate.Location = new System.Drawing.Point(59, 399);
             this.btnCalculate.Margin = new System.Windows.Forms.Padding(4);
             this.btnCalculate.Name = "btnCalculate";
-            this.btnCalculate.Size = new System.Drawing.Size(217, 43);
+            this.btnCalculate.Size = new System.Drawing.Size(198, 43);
             this.btnCalculate.TabIndex = 101;
             this.btnCalculate.Text = "Draw Curve";
             this.btnCalculate.UseVisualStyleBackColor = false;
@@ -124,18 +125,18 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(143, 141);
+            this.label5.Location = new System.Drawing.Point(133, 141);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(167, 16);
+            this.label5.Size = new System.Drawing.Size(143, 16);
             this.label5.TabIndex = 95;
-            this.label5.Text = "----------------------------------------";
+            this.label5.Text = "----------------------------------";
             // 
             // lblInputs
             // 
             this.lblInputs.AutoSize = true;
             this.lblInputs.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.lblInputs.Location = new System.Drawing.Point(54, 135);
+            this.lblInputs.Location = new System.Drawing.Point(49, 135);
             this.lblInputs.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblInputs.Name = "lblInputs";
             this.lblInputs.Size = new System.Drawing.Size(81, 25);
@@ -145,10 +146,10 @@
             // picCanvas
             // 
             this.picCanvas.BackColor = System.Drawing.Color.AliceBlue;
-            this.picCanvas.Location = new System.Drawing.Point(357, 141);
+            this.picCanvas.Location = new System.Drawing.Point(320, 135);
             this.picCanvas.Margin = new System.Windows.Forms.Padding(4);
             this.picCanvas.Name = "picCanvas";
-            this.picCanvas.Size = new System.Drawing.Size(490, 363);
+            this.picCanvas.Size = new System.Drawing.Size(527, 369);
             this.picCanvas.TabIndex = 93;
             this.picCanvas.TabStop = false;
             // 

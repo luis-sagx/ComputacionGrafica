@@ -74,26 +74,26 @@ namespace Algorithms.Views
         private void RedibujarTodo()
         {
             var bmp = new Bitmap(picCanvas.Width, picCanvas.Height);
-            using (Graphics g = Graphics.FromImage(bmp))
+            using (Graphics mGraph = Graphics.FromImage(bmp))
             {
-                g.Clear(Color.White);
+                mGraph.Clear(Color.White);
 
                 using (Pen penClip = new Pen(Color.DarkGreen, 3))
-                    g.DrawRectangle(penClip, rectRecorte);
+                    mGraph.DrawRectangle(penClip, rectRecorte);
 
                 if (puntoInicio.HasValue)
                 {
                     using (Pen bluePen = new Pen(Color.Blue, 3))
-                        g.DrawRectangle(bluePen, puntoInicio.Value.X - 1, puntoInicio.Value.Y - 1, 2, 2);
+                        mGraph.DrawRectangle(bluePen, puntoInicio.Value.X - 1, puntoInicio.Value.Y - 1, 2, 2);
                 }
 
                 if (puntoInicio.HasValue && puntoFin.HasValue && !mostrarRecorte)
                 {
                     using (Pen linePen = new Pen(Color.DarkBlue, 2))
-                        g.DrawLine(linePen, puntoInicio.Value, puntoFin.Value);
+                        mGraph.DrawLine(linePen, puntoInicio.Value, puntoFin.Value);
 
                     using (Pen bluePen = new Pen(Color.Blue, 3))
-                        g.DrawRectangle(bluePen, puntoFin.Value.X - 1, puntoFin.Value.Y - 1, 2, 2);
+                        mGraph.DrawRectangle(bluePen, puntoFin.Value.X - 1, puntoFin.Value.Y - 1, 2, 2);
                 }
             }
 
@@ -106,25 +106,25 @@ namespace Algorithms.Views
             var algoritmo = new CohenSutherlandAlgorithm(rectRecorte);
 
             var bmp = new Bitmap(picCanvas.Width, picCanvas.Height);
-            using (Graphics g = Graphics.FromImage(bmp))
+            using (Graphics mGraph = Graphics.FromImage(bmp))
             {
-                g.Clear(Color.White);
+                mGraph.Clear(Color.White);
 
                 using (Pen penClip = new Pen(Color.DarkGreen, 3))
-                    g.DrawRectangle(penClip, rectRecorte);
+                    mGraph.DrawRectangle(penClip, rectRecorte);
 
                 var start = puntoInicio.Value;
                 var end = puntoFin.Value;
 
                 using (Pen penOrig = new Pen(Color.LightGray, 2))
-                    g.DrawLine(penOrig, start, end);
+                    mGraph.DrawLine(penOrig, start, end);
 
                 bool visible = algoritmo.ClipLine(start, end, out Point clippedStart, out Point clippedEnd);
 
                 if (visible)
                 {
                     using (Pen redPen = new Pen(Color.Red, 3))
-                        g.DrawLine(redPen, clippedStart, clippedEnd);
+                        mGraph.DrawLine(redPen, clippedStart, clippedEnd);
                 }
                 else
                 {
@@ -135,6 +135,12 @@ namespace Algorithms.Views
             mostrarRecorte = true;
             picCanvas.Image?.Dispose();
             picCanvas.Image = bmp;
+        }
+
+        private void btnBack_Click(object sender, EventArgs e)
+        {
+            new FrmMain().Show();
+            this.Close();
         }
     }
 }

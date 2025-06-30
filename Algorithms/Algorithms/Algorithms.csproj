@@ -65,6 +65,11 @@
     <Compile Include="Domain\Interface\ICurveAlgorithm.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Utils\ColorHelper.cs" />
     <Compile Include="Utils\ShapeGenerator.cs" />
     <Compile Include="Views\FrmBresenhamCircle.cs">
@@ -123,13 +128,9 @@
     </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="Views\FrmBresenhamCircle.resx">
       <DependentUpon>FrmBresenhamCircle.cs</DependentUpon>
     </EmbeddedResource>
@@ -151,6 +152,9 @@
     <EmbeddedResource Include="Views\FrmFloodFill.resx">
       <DependentUpon>FrmFloodFill.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Views\FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Views\FrmSutherlandHodgman.resx">
       <DependentUpon>FrmSutherlandHodgman.cs</DependentUpon>
     </EmbeddedResource>
@@ -168,5 +172,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\backgroud.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -58,16 +58,16 @@ namespace Algorithms.Domain.Abstract
                 ShapeGenerator.GenerateStar(_sides, picCanvas.Size) :
                 ShapeGenerator.GenerateCenteredPolygon(_sides, picCanvas.Size);
 
-            using (Graphics g = Graphics.FromImage(_canvas))
+            using (Graphics mGraph = Graphics.FromImage(_canvas))
             {
-                g.Clear(Color.White);
+                mGraph.Clear(Color.White);
                 mPen = new Pen(_borderColor, 3);
 
                 for (int j = 0; j < points.Count; j++)
                 {
                     PointF start = points[j];
                     PointF end = points[(j + 1) % points.Count];
-                    g.DrawLine(mPen, start, end);
+                    mGraph.DrawLine(mPen, start, end);
                     AnimationPause();
                 }
             }

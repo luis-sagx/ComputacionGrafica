@@ -90,9 +90,9 @@
             this.lblWarning.ForeColor = System.Drawing.Color.OrangeRed;
             this.lblWarning.Location = new System.Drawing.Point(411, 116);
             this.lblWarning.Name = "lblWarning";
-            this.lblWarning.Size = new System.Drawing.Size(350, 22);
+            this.lblWarning.Size = new System.Drawing.Size(334, 22);
             this.lblWarning.TabIndex = 78;
-            this.lblWarning.Text = "Only if the polygon is already created,";
+            this.lblWarning.Text = "Only if the shape is already created,";
             // 
             // lblInput
             // 

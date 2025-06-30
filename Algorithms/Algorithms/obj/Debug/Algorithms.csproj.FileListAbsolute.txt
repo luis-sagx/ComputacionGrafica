@@ -15,3 +15,4 @@ C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Algorithms\Algor
 C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Algorithms\Algorithms\obj\Debug\Algorithms.Views.FrmBresenhamCircle.resources
 C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Algorithms\Algorithms\obj\Debug\Algorithms.Views.FrmBresenhamEllipse.resources
 C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Algorithms\Algorithms\obj\Debug\Algorithms.Views.FrmCurves.resources
+C:\Users\Luis Sagnay\Desktop\ESPE\5 Semestre\ComputacionGrafica\Algorithms\Algorithms\obj\Debug\Algorithms.Views.FrmMain.resources

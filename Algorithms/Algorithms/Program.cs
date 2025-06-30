@@ -17,7 +17,7 @@ namespace Algorithms
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmCurves());
+            Application.Run(new FrmMain());
         }
     }
 }

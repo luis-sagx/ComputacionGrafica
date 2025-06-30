@@ -3,19 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejerciciosclase2p\\ejercicios2p\\views\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\views\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejerciciosclase2p\\ejercicios2p\\views\\frmeulerian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\views\\frmeulerian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejerciciosclase2p\\ejercicios2p\\views\\frmeulerian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\ejercicios2p\\views\\frmeulerian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\views\\frmeulerian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejerciciosclase2p\\ejercicios2p\\utils\\starfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\ejercicios2p\\utils\\starfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\utils\\starfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\ejerciciosclase2p\\ejercicios2p\\algorithms\\eulerianfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\ejercicios2p\\algorithms\\eulerianfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B6FA87F-799B-46BA-90DC-38D5426DD3EC}|Ejercicios2P\\Ejercicios2P.csproj|solutionrelative:ejercicios2p\\algorithms\\eulerianfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,7 +78,48 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\Ejercicios2P\\Views\\FrmMain.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\Views\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\Ejercicios2P\\Views\\FrmMain.cs",
+              "RelativeToolTip": "Ejercicios2P\\Views\\FrmMain.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T23:16:14.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FrmEulerian.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\Ejercicios2P\\Views\\FrmEulerian.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\Views\\FrmEulerian.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\Ejercicios2P\\Views\\FrmEulerian.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicios2P\\Views\\FrmEulerian.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:23:39.044Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EulerLineDrawer.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\Ejercicios2P\\Algorithms\\EulerLineDrawer.cs",
+              "RelativeDocumentMoniker": "Ejercicios2P\\Algorithms\\EulerLineDrawer.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\Ejercicios2P\\Algorithms\\EulerLineDrawer.cs",
+              "RelativeToolTip": "Ejercicios2P\\Algorithms\\EulerLineDrawer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:08:02.464Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FrmEulerian.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\Ejercicios2P\\Views\\FrmEulerian.cs",
               "RelativeDocumentMoniker": "Ejercicios2P\\Views\\FrmEulerian.cs",
@@ -87,19 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmEulerian.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\Ejercicios2P\\Views\\FrmEulerian.cs",
-              "RelativeDocumentMoniker": "Ejercicios2P\\Views\\FrmEulerian.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\Ejercicios2P\\Views\\FrmEulerian.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Ejercicios2P\\Views\\FrmEulerian.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:23:39.044Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StarFactory.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\Ejercicios2P\\Utils\\StarFactory.cs",
               "RelativeDocumentMoniker": "Ejercicios2P\\Utils\\StarFactory.cs",
@@ -107,12 +140,11 @@
               "RelativeToolTip": "Ejercicios2P\\Utils\\StarFactory.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAAYwGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:22:17.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T01:22:17.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EulerianFigure.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\Ejercicios2P\\Algorithms\\EulerianFigure.cs",
               "RelativeDocumentMoniker": "Ejercicios2P\\Algorithms\\EulerianFigure.cs",
@@ -120,25 +152,11 @@
               "RelativeToolTip": "Ejercicios2P\\Algorithms\\EulerianFigure.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAkwBYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:21:28.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T01:21:28.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EulerLineDrawer.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\Ejercicios2P\\Algorithms\\EulerLineDrawer.cs",
-              "RelativeDocumentMoniker": "Ejercicios2P\\Algorithms\\EulerLineDrawer.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\Ejercicios2P\\Algorithms\\EulerLineDrawer.cs",
-              "RelativeToolTip": "Ejercicios2P\\Algorithms\\EulerLineDrawer.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T13:08:02.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FrmDDA.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\Ejercicios2P\\Views\\FrmDDA.cs",
               "RelativeDocumentMoniker": "Ejercicios2P\\Views\\FrmDDA.cs",
@@ -150,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "LineAlgorithm.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\Ejercicios2P\\Algorithms\\LineAlgorithm.cs",
               "RelativeDocumentMoniker": "Ejercicios2P\\Algorithms\\LineAlgorithm.cs",
@@ -162,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "FrmFloodFill.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\Ejercicios2P\\Views\\FrmFloodFill.cs",
               "RelativeDocumentMoniker": "Ejercicios2P\\Views\\FrmFloodFill.cs",
@@ -174,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "FrmCirculo.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\Ejercicios2P\\Views\\FrmCirculo.cs",
               "RelativeDocumentMoniker": "Ejercicios2P\\Views\\FrmCirculo.cs",
@@ -186,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "FrmBresenham.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\Ejercicios2P\\Views\\FrmBresenham.cs",
               "RelativeDocumentMoniker": "Ejercicios2P\\Views\\FrmBresenham.cs",
@@ -198,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DDAAlgorithm.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\Ejercicios2P\\Algorithms\\DDAAlgorithm.cs",
               "RelativeDocumentMoniker": "Ejercicios2P\\Algorithms\\DDAAlgorithm.cs",
@@ -210,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Table.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\EjerciciosClase2p\\Ejercicios2P\\Utils\\Table.cs",
               "RelativeDocumentMoniker": "Ejercicios2P\\Utils\\Table.cs",

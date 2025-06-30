@@ -73,22 +73,31 @@ namespace Algorithms.Views
         private void Redraw()
         {
             var bmp = new Bitmap(picCanvas.Width, picCanvas.Height);
-            using (Graphics g = Graphics.FromImage(bmp))
+            using (Graphics mGraph = Graphics.FromImage(bmp))
             {
-                g.Clear(Color.White);
+                mGraph.Clear(Color.AliceBlue);
 
                 foreach (var p in _curve.ControlPoints)
-                    g.FillEllipse(Brushes.Black, p.X - 3, p.Y - 3, 6, 6);
+                    mGraph.FillEllipse(Brushes.Black, p.X - 2, p.Y - 2, 4, 4);
 
                 if (_curve.ControlPoints.Count > 1)
-                    g.DrawLines(Pens.Gray, _curve.ControlPoints.ToArray());
+                    mGraph.DrawLines(Pens.Gray, _curve.ControlPoints.ToArray());
 
                 if (_curve.GeneratedCurve.Count > 1)
-                    g.DrawLines(Pens.Red, _curve.GeneratedCurve.ToArray());
+                    using (Pen redThickPen = new Pen(Color.DarkTurquoise, 3f)) 
+                    {
+                        mGraph.DrawLines(redThickPen, _curve.GeneratedCurve.ToArray());
+                    }
             }
 
             picCanvas.Image?.Dispose();
             picCanvas.Image = bmp;
+        }
+
+        private void btnBack_Click(object sender, EventArgs e)
+        {
+            new FrmMain().Show();
+            Close();
         }
     }
 }
