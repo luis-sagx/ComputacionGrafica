@@ -65,7 +65,6 @@ namespace Algorithms.Views
                     puntoInicio = null;
                     puntoFin = null;
                     mostrarRecorte = false;
-                    MessageBox.Show("Pantalla limpiada.");
                     RedibujarTodo();
                 }
             }
@@ -128,7 +127,7 @@ namespace Algorithms.Views
                 }
                 else
                 {
-                    MessageBox.Show("La línea está completamente fuera del área de recorte.");
+                    MessageBox.Show("The line is completely outside the cut area.");
                 }
             }
 

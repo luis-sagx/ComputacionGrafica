@@ -51,9 +51,16 @@ namespace Algorithms.Views
 
         private void btnDraw_Click(object sender, EventArgs e)
         {
+            if (_curve.ControlPoints.Count <= 1)
+            {
+                MessageBox.Show("You must enter at least 2 points to generate the curve.", "Warning");
+                return;
+            }
+
             _curve.GenerateCurve();
             Redraw();
         }
+
 
         private void btnReset_Click(object sender, EventArgs e)
         {

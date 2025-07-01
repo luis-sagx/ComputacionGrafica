@@ -68,7 +68,7 @@
             this.lblInfo.Padding = new System.Windows.Forms.Padding(10, 5, 10, 5);
             this.lblInfo.Size = new System.Drawing.Size(191, 28);
             this.lblInfo.TabIndex = 83;
-            this.lblInfo.Text = "Click inside the rectangle";
+            this.lblInfo.Text = "Click to create the points";
             // 
             // btnBack
             // 

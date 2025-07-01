@@ -40,7 +40,7 @@ namespace Algorithms.Views
             {
                 if (polygon.Count < 3)
                 {
-                    MessageBox.Show("El polígono debe tener al menos 3 puntos.");
+                    MessageBox.Show("The polygon must have at least 3 points.", "Warning");
                     return;
                 }
 

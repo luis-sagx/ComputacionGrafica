@@ -9,7 +9,7 @@ namespace Algorithms.Utils
 {
     public class ShapeGenerator
     {
-        public const int DefaultRadius = 50; // Tamaño fijo
+        public const int DefaultRadius = 40;
 
         public static List<PointF> GenerateCenteredPolygon(int sides, Size canvasSize)
         {

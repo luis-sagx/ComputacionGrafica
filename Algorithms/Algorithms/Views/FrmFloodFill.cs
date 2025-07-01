@@ -21,6 +21,7 @@ namespace Algorithms.Views
         public FrmFloodFill()
         {
             InitializeComponent();
+            rbIterative.Checked = true;
             _colorDialog.Color = Color.RoyalBlue;
             btnSelectColor.BackColor = _colorDialog.Color;
         }
