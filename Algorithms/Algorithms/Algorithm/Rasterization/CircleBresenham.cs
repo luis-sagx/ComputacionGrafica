@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 namespace Algorithms.Algorithm
 {
-    public class CircleBresenham : CircleAlgorithm
+    public class CircleBresenham : EllipseAlgorithm
     {
         public override void Draw(PictureBox picCanvas)
         {
@@ -17,32 +17,29 @@ namespace Algorithms.Algorithm
 
             int centerX = picCanvas.Width / 2;
             int centerY = picCanvas.Height / 2;
+            int cx = centerX + Center.X;
+            int cy = centerY - Center.Y;
 
             DrawAxes(picCanvas, centerX, centerY);
 
             int x = 0;
-            int y = Radius;
-            int p = 1 - Radius;
-            int step = 0;
+            int y = Ry;
+            int p = 1 - Ry;
 
-            DrawSymmetricPointsAnimated(x, y, centerX, centerY, p);
-            step++;
+            DibujarPuntosSimetricos(cx, cy, x, y, p);
 
             while (x < y)
             {
                 x++;
                 p += (p < 0) ? 2 * x + 1 : 2 * (x - y--) + 1;
                 AnimationPause();
-                DrawSymmetricPointsAnimated(x, y, centerX, centerY, p);
+                DibujarPuntosSimetricos(cx, cy, x, y, p);
             }
         }
 
-        private void DrawSymmetricPointsAnimated(int x, int y, int centerX, int centerY, int p)
+        private void DibujarPuntosSimetricos(int cx, int cy, int x, int y, int p)
         {
-            int cx = centerX + Center.X;
-            int cy = centerY - Center.Y;
-
-            var points = new List<Point>
+            var puntos = new List<Point>
             {
                 new Point(cx + x, cy + y),
                 new Point(cx - x, cy + y),
@@ -54,11 +51,9 @@ namespace Algorithms.Algorithm
                 new Point(cx - y, cy - x)
             };
 
-            foreach (var point in points)
-            {
-                DrawPixel(point.X, point.Y);
-            }
+            foreach (var punto in puntos)
+                DrawPixel(punto.X, punto.Y);
+
         }
     }
 }
-

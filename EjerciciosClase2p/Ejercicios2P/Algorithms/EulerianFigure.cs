@@ -4,9 +4,10 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Ejercicios2P.DDA;
 using System.Windows.Forms;
 
-namespace Algorithms.Algorithm
+namespace Ejercicios2P.Algorithms
 {
     public class EulerianFigure : DDAAlgorithm
     {
@@ -19,7 +20,7 @@ namespace Algorithms.Algorithm
             this.path = path;
         }
 
-        public override void Draw(PictureBox picCanvas)
+        public void Draw(PictureBox picCanvas)
         {
             InitializeDrawingTools(picCanvas, Color.DarkBlue);
             int centerX = picCanvas.Width / 2;

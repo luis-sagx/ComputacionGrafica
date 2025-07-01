@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Algorithms.Utils
 {
-    public class PolygonGenerator
+    public class ShapeGenerator
     {
-        public const int DefaultRadius = 40; // Tamaño fijo del polígono
+        public const int DefaultRadius = 50; // Tamaño fijo
 
         public static List<PointF> GenerateCenteredPolygon(int sides, Size canvasSize)
         {
@@ -32,5 +32,28 @@ namespace Algorithms.Utils
 
             return points;
         }
+
+        public static List<PointF> GenerateStar(int points, Size canvasSize)
+        {
+            var center = new Point(canvasSize.Width / 2, canvasSize.Height / 2);
+            var result = new List<PointF>();
+            int doublePoints = points * 2;
+            double angleStep = Math.PI / points;
+            int outerRadius = DefaultRadius;
+            int innerRadius = DefaultRadius / 2;
+
+            for (int i = 0; i < doublePoints; i++)
+            {
+                double angle = i * angleStep;
+                int radius = (i % 2 == 0) ? outerRadius : innerRadius;
+
+                float x = center.X + (float)(radius * Math.Cos(angle));
+                float y = center.Y + (float)(radius * Math.Sin(angle));
+                result.Add(new PointF(x, y));
+            }
+
+            return result;
+        }
+
     }
 }

@@ -54,34 +54,40 @@ namespace Algorithms.Views
         private void ReDraw()
         {
             var bmp = new Bitmap(picCanvas.Width, picCanvas.Height);
-            using (Graphics g = Graphics.FromImage(bmp))
+            using (Graphics mGraph = Graphics.FromImage(bmp))
             {
-                g.Clear(Color.White);
+                mGraph.Clear(Color.AliceBlue);
 
                 using (Pen penClip = new Pen(Color.DarkGreen, 2))
-                    g.DrawRectangle(penClip, rectClip);
+                    mGraph.DrawRectangle(penClip, rectClip);
 
                 if (polygon.Count > 1 && !mostrarRecorte)
                 {
                     using (Pen polyPen = new Pen(Color.Orange, 2))
-                        g.DrawPolygon(polyPen, polygon.ToArray());
+                        mGraph.DrawPolygon(polyPen, polygon.ToArray());
                 }
 
                 if (mostrarRecorte && clippedPolygon.Count > 1)
                 {
                     using (Pen clippedPen = new Pen(Color.Red, 2))
-                        g.DrawPolygon(clippedPen, clippedPolygon.ToArray());
+                        mGraph.DrawPolygon(clippedPen, clippedPolygon.ToArray());
                 }
 
                 foreach (var point in polygon)
                 {
                     using (Pen penPoint = new Pen(Color.Red, 3))
-                        g.DrawRectangle(penPoint, point.X - 1, point.Y - 1, 2, 2);
+                        mGraph.DrawRectangle(penPoint, point.X - 1, point.Y - 1, 2, 2);
                 }
             }
 
             picCanvas.Image?.Dispose();
             picCanvas.Image = bmp;
+        }
+
+        private void btnBack_Click(object sender, EventArgs e)
+        {
+            new FrmMain().Show();
+            this.Close();
         }
     }
 }

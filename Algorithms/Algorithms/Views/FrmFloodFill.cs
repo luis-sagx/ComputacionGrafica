@@ -8,13 +8,16 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Algorithms.Algorithm;
+using Algorithms.Algorithm.Fill;
+using Algorithms.Domain.Abstract;
 
 namespace Algorithms.Views
 {
     public partial class FrmFloodFill : Form
     {
-        private readonly FloodFillAlgorithm _floodFill = new FloodFillAlgorithm();
+        private FillAlgorithm _floodFill;
         private readonly ColorDialog _colorDialog = new ColorDialog();
+
         public FrmFloodFill()
         {
             InitializeComponent();
@@ -24,41 +27,36 @@ namespace Algorithms.Views
 
         private void FrmFloodFill_Load(object sender, EventArgs e)
         {
-            _floodFill.InitializeData(txtSides, picCanvas);
+            cmbShape.Items.Add("Polygon");
+            cmbShape.Items.Add("Star");
+            cmbShape.SelectedIndex = 0;
 
             picCanvas.MouseClick += async (s, e2) =>
             {
-                await _floodFill.FloodFillAsync(e2.X, e2.Y, picCanvas);
+                if (_floodFill != null)
+                    await _floodFill.FillAsync(e2.X, e2.Y, picCanvas);
             };
         }
 
         private void btnCalculate_Click(object sender, EventArgs e)
         {
-            try
-            {
-                _floodFill.ReadData(txtSides);
-                int sides = int.Parse(txtSides.Text);
-                _floodFill.PlotPolygon(sides, picCanvas);
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
+            bool isStar = cmbShape.SelectedItem?.ToString() == "Star";
+
+            if (rbRecursive.Checked)
+                _floodFill = new FloodFillAlgorithm();
+            else
+                _floodFill = new FillIterativeAlgorithm();
+
+            _floodFill.FillColor = _colorDialog.Color;
+
+            _floodFill.ReadData(txtSides, isStar);
+            _floodFill.PlotFigure(picCanvas);
         }
 
         private void btnReset_Click(object sender, EventArgs e)
         {
-            _floodFill.InitializeData(txtSides, picCanvas);
-        }
-
-        private void picCanvas_Click(object sender, EventArgs e)
-        {
-        }
-
-        private void btnBack_Click(object sender, EventArgs e)
-        {
-            new FrmMain().Show();
-            Close();
+            _floodFill?.InitializeData(txtSides, cmbShape, picCanvas);
+            picCanvas.Image = null;
         }
 
         private void btnSelectColor_Click(object sender, EventArgs e)
@@ -66,8 +64,15 @@ namespace Algorithms.Views
             if (_colorDialog.ShowDialog() == DialogResult.OK)
             {
                 btnSelectColor.BackColor = _colorDialog.Color;
-                _floodFill.FillColor = _colorDialog.Color;
+                if (_floodFill != null)
+                    _floodFill.FillColor = _colorDialog.Color;
             }
+        }
+
+        private void btnBack_Click(object sender, EventArgs e)
+        {
+            new FrmMain().Show();
+            Close();
         }
     }
 }

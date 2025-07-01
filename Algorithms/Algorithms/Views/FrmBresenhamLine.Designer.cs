@@ -134,10 +134,10 @@
             this.lblTitulo.Location = new System.Drawing.Point(-10, 26);
             this.lblTitulo.Margin = new System.Windows.Forms.Padding(7, 6, 7, 6);
             this.lblTitulo.Name = "lblTitulo";
-            this.lblTitulo.Padding = new System.Windows.Forms.Padding(330, 8, 330, 8);
-            this.lblTitulo.Size = new System.Drawing.Size(922, 47);
+            this.lblTitulo.Padding = new System.Windows.Forms.Padding(300, 8, 300, 8);
+            this.lblTitulo.Size = new System.Drawing.Size(942, 47);
             this.lblTitulo.TabIndex = 75;
-            this.lblTitulo.Text = "Draw Line With DDA";
+            this.lblTitulo.Text = "Draw Line With Bresenham";
             // 
             // btnReset
             // 
