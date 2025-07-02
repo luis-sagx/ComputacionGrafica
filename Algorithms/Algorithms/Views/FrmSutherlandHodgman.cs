@@ -58,12 +58,12 @@ namespace Algorithms.Views
             {
                 mGraph.Clear(Color.AliceBlue);
 
-                using (Pen penClip = new Pen(Color.DarkGreen, 2))
+                using (Pen penClip = new Pen(Color.DarkGreen, 3))
                     mGraph.DrawRectangle(penClip, rectClip);
 
                 if (polygon.Count > 1 && !mostrarRecorte)
                 {
-                    using (Pen polyPen = new Pen(Color.Orange, 2))
+                    using (Pen polyPen = new Pen(Color.DarkBlue, 2))
                         mGraph.DrawPolygon(polyPen, polygon.ToArray());
                 }
 
@@ -88,6 +88,35 @@ namespace Algorithms.Views
         {
             new FrmMain().Show();
             this.Close();
+        }
+
+        private void btnHelp_Click(object sender, EventArgs e)
+        {
+            string message = "📐 Polygon Clipping Help\n\n" +
+                             "This tool allows you to clip any polygon against a fixed rectangular clipping window.\n\n" +
+                             "Instructions:\n" +
+                             "1. A rectangular clipping area is already displayed on the canvas.\n\n" +
+                             "2. To draw your polygon:\n" +
+                             "   - Left-click inside the canvas to place each vertex of the polygon.\n" +
+                             "   - As you click, the polygon shape is gradually formed.\n\n" +
+                             "3. When you finish adding points:\n" +
+                             "   - Right-click anywhere to apply the polygon clipping algorithm.\n\n" +
+                             "Buttons:\n" +
+                             "🔁 Reset – Clears the canvas and lets you start over.\n" +
+                             "↩️ Back – Returns to the main menu form.\n\n" +
+                             "Note:\n" +
+                             "👉 Ensure the polygon is closed properly. The algorithm will handle open shapes automatically when clipping.";
+
+            MessageBox.Show(message, "Help - Polygon Clipping", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+
+        private void btnReset_Click(object sender, EventArgs e)
+        {
+            polygon.Clear();
+            clippedPolygon.Clear();
+            mostrarRecorte = false;
+            ReDraw(); 
         }
     }
 }

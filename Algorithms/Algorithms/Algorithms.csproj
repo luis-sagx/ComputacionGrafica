@@ -57,7 +57,6 @@
     <Compile Include="Algorithm\Clipping\SutherlandHodgmanAlgorithm.cs" />
     <Compile Include="Algorithm\Rasterization\EllipseBresenham.cs" />
     <Compile Include="Domain\Abstract\AlgorithmCalculator.cs" />
-    <Compile Include="Domain\Abstract\CircleAlgorithm.cs" />
     <Compile Include="Domain\Abstract\ClippingAlgorithm.cs" />
     <Compile Include="Domain\Abstract\EllipseAlgorithm.cs" />
     <Compile Include="Domain\Abstract\FillAlgorithm.cs" />

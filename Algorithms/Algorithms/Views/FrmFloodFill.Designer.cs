@@ -45,6 +45,7 @@
             this.rbRecursive = new System.Windows.Forms.RadioButton();
             this.rbIterative = new System.Windows.Forms.RadioButton();
             this.cmbShape = new System.Windows.Forms.ComboBox();
+            this.btnHelp = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.picCanvas)).BeginInit();
             this.SuspendLayout();
             // 
@@ -245,11 +246,25 @@
             this.cmbShape.Size = new System.Drawing.Size(121, 30);
             this.cmbShape.TabIndex = 91;
             // 
+            // btnHelp
+            // 
+            this.btnHelp.BackColor = System.Drawing.Color.SteelBlue;
+            this.btnHelp.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnHelp.ForeColor = System.Drawing.SystemColors.ControlLight;
+            this.btnHelp.Location = new System.Drawing.Point(782, 37);
+            this.btnHelp.Name = "btnHelp";
+            this.btnHelp.Size = new System.Drawing.Size(57, 37);
+            this.btnHelp.TabIndex = 92;
+            this.btnHelp.Text = "?";
+            this.btnHelp.UseVisualStyleBackColor = false;
+            this.btnHelp.Click += new System.EventHandler(this.btnHelp_Click);
+            // 
             // FrmFloodFill
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(902, 553);
+            this.Controls.Add(this.btnHelp);
             this.Controls.Add(this.cmbShape);
             this.Controls.Add(this.rbRecursive);
             this.Controls.Add(this.rbIterative);
@@ -295,5 +310,6 @@
         private System.Windows.Forms.RadioButton rbRecursive;
         private System.Windows.Forms.RadioButton rbIterative;
         private System.Windows.Forms.ComboBox cmbShape;
+        private System.Windows.Forms.Button btnHelp;
     }
 }

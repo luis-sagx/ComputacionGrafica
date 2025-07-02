@@ -45,6 +45,7 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.txtRadioY = new System.Windows.Forms.TextBox();
+            this.btnHelp = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.picCanvas)).BeginInit();
             this.SuspendLayout();
             // 
@@ -237,11 +238,25 @@
             this.txtRadioY.Size = new System.Drawing.Size(108, 28);
             this.txtRadioY.TabIndex = 101;
             // 
+            // btnHelp
+            // 
+            this.btnHelp.BackColor = System.Drawing.Color.SteelBlue;
+            this.btnHelp.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnHelp.ForeColor = System.Drawing.SystemColors.ControlLight;
+            this.btnHelp.Location = new System.Drawing.Point(779, 44);
+            this.btnHelp.Name = "btnHelp";
+            this.btnHelp.Size = new System.Drawing.Size(57, 37);
+            this.btnHelp.TabIndex = 103;
+            this.btnHelp.Text = "?";
+            this.btnHelp.UseVisualStyleBackColor = false;
+            this.btnHelp.Click += new System.EventHandler(this.btnHelp_Click);
+            // 
             // FrmBresenhamEllipse
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(902, 553);
+            this.Controls.Add(this.btnHelp);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.txtRadioY);
             this.Controls.Add(this.label4);
@@ -287,5 +302,6 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.TextBox txtRadioY;
+        private System.Windows.Forms.Button btnHelp;
     }
 }

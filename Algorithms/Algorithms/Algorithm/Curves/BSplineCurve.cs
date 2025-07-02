@@ -14,121 +14,55 @@ namespace Algorithms.Algorithm.Curves
     {
         public List<PointF> ControlPoints { get; private set; } = new List<PointF>();
         public List<PointF> GeneratedCurve { get; private set; } = new List<PointF>();
-
         public float StepSize { get; set; } = 0.01f;
-        public int Degree { get; set; } = 3;
 
-        private float[] _knotVector;
-
-        public void AddPoint(PointF point) => ControlPoints.Add(point);
+        public void AddPoint(PointF point)
+        {
+            ControlPoints.Add(point);
+        }
 
         public void GenerateCurve()
         {
             GeneratedCurve.Clear();
+            if (ControlPoints.Count < 4) return;
 
-            if (ControlPoints.Count < 2) return;
-
-            int actualDegree = Math.Min(Degree, ControlPoints.Count - 1);
-            if (actualDegree < 1) actualDegree = 1;
-
-            GenerateKnotVector(actualDegree);
-
-            float tStart = _knotVector[actualDegree];
-            float tEnd = _knotVector[ControlPoints.Count];
-
-            if (tEnd <= tStart) return;
-
-            int steps = 100;
-            for (int i = 0; i <= steps; i++)
+            for (float t = 0; t <= ControlPoints.Count - 3; t += StepSize)
             {
-                float t = tStart + (tEnd - tStart) * i / steps;
-
-                if (t < tStart) t = tStart;
-                if (t > tEnd) t = tEnd;
-
-                var point = EvaluateBSpline(t, actualDegree);
-
-                if (!float.IsNaN(point.X) && !float.IsNaN(point.Y) &&
-                    !float.IsInfinity(point.X) && !float.IsInfinity(point.Y))
-                {
-                    GeneratedCurve.Add(point);
-                }
+                GeneratedCurve.Add(CalculateBSpline(t));
             }
         }
 
-        private void GenerateKnotVector(int degree)
+        private PointF CalculateBSpline(float t)
         {
-            int n = ControlPoints.Count;
-            int m = n + degree + 1;
-            _knotVector = new float[m];
+            int i = (int)Math.Floor(t);
+            float u = t - i;
 
-            for (int i = 0; i < m; i++)
-            {
-                if (i <= degree)
-                    _knotVector[i] = 0;
-                else if (i >= n)
-                    _knotVector[i] = n - degree;
-                else
-                    _knotVector[i] = i - degree;
-            }
-        }
+            if (i + 3 >= ControlPoints.Count)
+                return ControlPoints[ControlPoints.Count - 1];
 
-        private PointF EvaluateBSpline(float t, int degree)
-        {
-            int n = ControlPoints.Count;
-            float x = 0, y = 0;
-            float weightSum = 0;
+            PointF P0 = ControlPoints[i];
+            PointF P1 = ControlPoints[i + 1];
+            PointF P2 = ControlPoints[i + 2];
+            PointF P3 = ControlPoints[i + 3];
 
-            for (int i = 0; i < n; i++)
-            {
-                float basis = BasisFunction(i, degree, t);
-                if (basis > 0) // Solo considerar bases con contribución positiva
-                {
-                    x += ControlPoints[i].X * basis;
-                    y += ControlPoints[i].Y * basis;
-                    weightSum += basis;
-                }
-            }
+            float u2 = u * u;
+            float u3 = u2 * u;
 
-            if (weightSum > 0.001f)
-            {
-                return new PointF(x, y);
-            }
+            float x = (1f / 6f) * (
+                (-u3 + 3 * u2 - 3 * u + 1) * P0.X +
+                (3 * u3 - 6 * u2 + 4) * P1.X +
+                (-3 * u3 + 3 * u2 + 3 * u + 1) * P2.X +
+                u3 * P3.X);
 
-            return ControlPoints[0];
-        }
+            float y = (1f / 6f) * (
+                (-u3 + 3 * u2 - 3 * u + 1) * P0.Y +
+                (3 * u3 - 6 * u2 + 4) * P1.Y +
+                (-3 * u3 + 3 * u2 + 3 * u + 1) * P2.Y +
+                u3 * P3.Y);
 
-        private float BasisFunction(int i, int p, float t)
-        {
-            if (p == 0)
-            {
-                if (i >= _knotVector.Length - 1) return 0;
-
-                if (i == ControlPoints.Count - 1 && Math.Abs(t - _knotVector[i + 1]) < 1e-10)
-                    return 1.0f;
-
-                return (t >= _knotVector[i] && t < _knotVector[i + 1]) ? 1.0f : 0.0f;
-            }
-
-            float result = 0.0f;
-
-            if (i + p >= _knotVector.Length || i + p + 1 >= _knotVector.Length)
-                return 0;
-
-            float denom1 = _knotVector[i + p] - _knotVector[i];
-            if (Math.Abs(denom1) > 1e-10)
-            {
-                result += (t - _knotVector[i]) / denom1 * BasisFunction(i, p - 1, t);
-            }
-
-            float denom2 = _knotVector[i + p + 1] - _knotVector[i + 1];
-            if (Math.Abs(denom2) > 1e-10)
-            {
-                result += (_knotVector[i + p + 1] - t) / denom2 * BasisFunction(i + 1, p - 1, t);
-            }
-
-            return result;
+            return new PointF(x, y);
         }
     }
+
 
 }

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.Drawing.Imaging;
 using System.Linq;
 using System.Text;
 using System.Threading;
@@ -17,25 +18,28 @@ namespace Algorithms.Algorithm.Fill
             throw new NotImplementedException();
         }
 
-        public override async Task FillAsync(int x, int y, PictureBox picCanvas)
+        public override async Task FillAsync(int x, int y, PictureBox picCanvas, CancellationToken token)
         {
             if (_canvas == null)
             {
-                MessageBox.Show("Primero dibuje la figura.");
+                MessageBox.Show("First, draw the shape.", "Warning");
                 return;
             }
 
             Color targetColor = _canvas.GetPixel(x, y);
-            await Task.Run(() => FloodFillIterative(x, y, targetColor, picCanvas));
+            await Task.Run(() => FloodFillIterative(x, y, targetColor, picCanvas, token));
         }
 
-        private void FloodFillIterative(int x, int y, Color targetColor, PictureBox picCanvas)
+        private void FloodFillIterative(int x, int y, Color targetColor, PictureBox picCanvas, CancellationToken token)
         {
             Stack<Point> stack = new Stack<Point>();
             stack.Push(new Point(x, y));
 
             while (stack.Count > 0)
             {
+                if (token.IsCancellationRequested)
+                    return;
+
                 Point pt = stack.Pop();
                 if (!IsValidPixel(pt.X, pt.Y)) continue;
 
@@ -52,5 +56,6 @@ namespace Algorithms.Algorithm.Fill
                 stack.Push(new Point(pt.X, pt.Y - 1));
             }
         }
+
     }
 }

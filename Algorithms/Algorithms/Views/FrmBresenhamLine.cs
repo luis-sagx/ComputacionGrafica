@@ -45,5 +45,21 @@ namespace Algorithms.Views
             new FrmMain().Show();
             Close();
         }
+
+        private void btnHelp_Click(object sender, EventArgs e)
+        {
+            string message =
+            "📌 How to use the Bresenham Line Drawing Form:\n\n" +
+            "1. Enter the coordinates of the two points:\n" +
+            "   - X and Y (both between -150 and 150)\n\n" +
+            "   - First point: Xi and Yi\n" +
+            "   - Second point: Xf and Yf\n\n" +
+            "2. Click the 'Draw' button to draw the Cartesian plane and the line using the Bresenham algorithm.\n\n" +
+            "3. Click the 'Reset' button to clear the canvas and input fields.\n\n" +
+            "4. Click the 'Back' button to return to the main menu.\n\n" +
+            "💡 The pixels are drawn step-by-step.";
+
+            MessageBox.Show(message, "Bresenham Help", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
     }
 }

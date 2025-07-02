@@ -141,5 +141,25 @@ namespace Algorithms.Views
             new FrmMain().Show();
             this.Close();
         }
+
+        private void btnHelp_Click(object sender, EventArgs e)
+        {
+            string message = "✂️ Line Clipping Help – Cohen-Sutherland Algorithm\n\n" +
+                             "This tool allows you to clip lines using a predefined rectangular clipping window.\n\n" +
+                             "Instructions:\n" +
+                             "1. A fixed rectangle is shown on the canvas — this is the clipping region.\n\n" +
+                             "2. To draw a line:\n" +
+                             "   - Left-click once to set the starting point of the line.\n" +
+                             "   - Left-click again to set the ending point of the line.\n\n" +
+                             "3. Once both endpoints are set:\n" +
+                             "   - Right-click to apply the Cohen-Sutherland line clipping algorithm.\n\n" +
+                             "Visualization:\n" +
+                             "🔴 The part of the line that remains inside the rectangle is drawn in red.\n" +
+                             "⚪ The part of the line that is outside (clipped) is shown in gray.\n\n" +
+                             "📝 Tip: You can repeat this process to clip multiple lines inside the same rectangle.";
+
+            MessageBox.Show(message, "Help - Cohen-Sutherland Line Clipping", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
     }
 }

@@ -32,6 +32,8 @@
             this.btnBack = new System.Windows.Forms.Button();
             this.lblInfo = new System.Windows.Forms.Label();
             this.picCanvas = new System.Windows.Forms.PictureBox();
+            this.btnHelp = new System.Windows.Forms.Button();
+            this.btnReset = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.picCanvas)).BeginInit();
             this.SuspendLayout();
             // 
@@ -54,10 +56,10 @@
             this.btnBack.BackColor = System.Drawing.Color.SteelBlue;
             this.btnBack.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
             this.btnBack.ForeColor = System.Drawing.Color.White;
-            this.btnBack.Location = new System.Drawing.Point(398, 486);
+            this.btnBack.Location = new System.Drawing.Point(461, 487);
             this.btnBack.Margin = new System.Windows.Forms.Padding(4);
             this.btnBack.Name = "btnBack";
-            this.btnBack.Size = new System.Drawing.Size(117, 43);
+            this.btnBack.Size = new System.Drawing.Size(115, 43);
             this.btnBack.TabIndex = 88;
             this.btnBack.Text = "Back";
             this.btnBack.UseVisualStyleBackColor = false;
@@ -84,11 +86,40 @@
             this.picCanvas.TabStop = false;
             this.picCanvas.MouseClick += new System.Windows.Forms.MouseEventHandler(this.picCanvas_MouseClick);
             // 
+            // btnHelp
+            // 
+            this.btnHelp.BackColor = System.Drawing.Color.SteelBlue;
+            this.btnHelp.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnHelp.ForeColor = System.Drawing.SystemColors.ControlLight;
+            this.btnHelp.Location = new System.Drawing.Point(792, 38);
+            this.btnHelp.Name = "btnHelp";
+            this.btnHelp.Size = new System.Drawing.Size(57, 37);
+            this.btnHelp.TabIndex = 94;
+            this.btnHelp.Text = "?";
+            this.btnHelp.UseVisualStyleBackColor = false;
+            this.btnHelp.Click += new System.EventHandler(this.btnHelp_Click);
+            // 
+            // btnReset
+            // 
+            this.btnReset.BackColor = System.Drawing.Color.SteelBlue;
+            this.btnReset.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
+            this.btnReset.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnReset.Location = new System.Drawing.Point(326, 487);
+            this.btnReset.Margin = new System.Windows.Forms.Padding(4);
+            this.btnReset.Name = "btnReset";
+            this.btnReset.Size = new System.Drawing.Size(115, 43);
+            this.btnReset.TabIndex = 95;
+            this.btnReset.Text = "Reset";
+            this.btnReset.UseVisualStyleBackColor = false;
+            this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
+            // 
             // FrmSutherlandHodgman
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(902, 553);
+            this.Controls.Add(this.btnReset);
+            this.Controls.Add(this.btnHelp);
             this.Controls.Add(this.btnBack);
             this.Controls.Add(this.lblInfo);
             this.Controls.Add(this.picCanvas);
@@ -107,5 +138,7 @@
         private System.Windows.Forms.Button btnBack;
         private System.Windows.Forms.Label lblInfo;
         private System.Windows.Forms.PictureBox picCanvas;
+        private System.Windows.Forms.Button btnHelp;
+        private System.Windows.Forms.Button btnReset;
     }
 }

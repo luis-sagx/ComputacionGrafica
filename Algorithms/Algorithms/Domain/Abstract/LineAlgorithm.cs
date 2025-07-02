@@ -52,6 +52,7 @@ namespace Algorithms.Domain.Abstract
             txtStartY.Text = txtEndY.Text = "";
             txtStartX.Focus();
             picCanvas.Refresh();
+
         }
     }
 }

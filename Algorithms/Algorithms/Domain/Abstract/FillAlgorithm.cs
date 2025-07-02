@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Algorithms.Utils;
 using System.Windows.Forms;
+using System.Threading;
 
 namespace Algorithms.Domain.Abstract
 {
@@ -16,6 +17,9 @@ namespace Algorithms.Domain.Abstract
         protected readonly Color _borderColor = Color.Black;
         protected int _sides = 3;
         protected bool _isStar = false;
+        protected CancellationTokenSource _cts = new CancellationTokenSource();
+
+
 
         public Color FillColor
         {
@@ -25,12 +29,11 @@ namespace Algorithms.Domain.Abstract
 
         public void ReadData(TextBox txtLados, bool esEstrella)
         {
-            if (!int.TryParse(txtLados.Text, out _sides) || _sides < 3)
+            if (!int.TryParse(txtLados.Text, out _sides) || _sides < 3 || _sides > 20)
             {
-                MessageBox.Show("Ingrese un número entero mayor o igual a 3", "Error");
+                MessageBox.Show("Please enter a number between 3 and 20", "Error");
                 txtLados.Focus();
                 txtLados.Clear();
-                throw new ArgumentException("Número de lados inválido");
             }
 
             _isStar = esEstrella;
@@ -49,7 +52,7 @@ namespace Algorithms.Domain.Abstract
             picCanvas.Refresh();
         }
 
-        public abstract Task FillAsync(int x, int y, PictureBox picCanvas);
+        public abstract Task FillAsync(int x, int y, PictureBox picCanvas, CancellationToken token);
 
         public void PlotFigure(PictureBox picCanvas)
         {
@@ -60,7 +63,7 @@ namespace Algorithms.Domain.Abstract
 
             using (Graphics mGraph = Graphics.FromImage(_canvas))
             {
-                mGraph.Clear(Color.White);
+                mGraph.Clear(Color.AliceBlue);
                 mPen = new Pen(_borderColor, 3);
 
                 for (int j = 0; j < points.Count; j++)
