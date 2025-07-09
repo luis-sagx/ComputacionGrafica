@@ -48,7 +48,9 @@
   <ItemGroup>
     <Compile Include="BresenhamCircle.cs" />
     <Compile Include="ClockDrawer.cs" />
-    <Compile Include="DDAAlgorithm.cs" />
+    <Compile Include="DDAAlgorithm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FloodFillAlgorithm.cs" />
     <Compile Include="FrmClock.cs">
       <SubType>Form</SubType>

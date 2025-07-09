@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\sagnay_luis_leccion2\\clockdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\sagnay_luis_leccion2\\sagnay_luis_leccion2\\clockdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|solutionrelative:sagnay_luis_leccion2\\clockdrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|c:\\users\\luis sagnay\\desktop\\espe\\5 semestre\\computaciongrafica\\sagnay_luis_leccion2\\sagnay_luis_leccion2\\ddaalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\5 Semestre\\ComputacionGrafica\\Sagnay_Luis_Leccion2\\sagnay_luis_leccion2\\ddaalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C5A3030-67FE-40E9-8E53-E4C84345E865}|Sagnay_Luis_Leccion2\\Sagnay_Luis_Leccion2.csproj|solutionrelative:sagnay_luis_leccion2\\ddaalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -138,8 +138,7 @@
               "RelativeToolTip": "Sagnay_Luis_Leccion2\\DDAAlgorithm.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAgwBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T14:19:01.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T14:19:01.034Z"
             },
             {
               "$type": "Document",
